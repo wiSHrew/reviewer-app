@@ -6,6 +6,7 @@ let questions = [];
 let choices = [];
 let answers = [];
 let indexes = [];
+let correct = 0;
 
 function processFile() {
     document.getElementById("questions").innerHTML = "";
@@ -13,7 +14,12 @@ function processFile() {
 
     const input = document.getElementById('fileInput');
     const file = input.files[0];
-    if (!file) return;
+    
+    const output = document.getElementById("output");
+    if (!file) {
+        output.textContent = "no file detected o(TヘTo)";
+        return;
+    }
 
     const reader = new FileReader();
 
@@ -45,7 +51,6 @@ function processFile() {
     }
 
     // check counts
-    const output = document.getElementById("output");
     if (questions.length !== choices.length || questions.length !== answers.length) {
         output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
         return;
@@ -141,6 +146,8 @@ function displayQuestion(index, i) {
 
             if (selectedValue === letterAns.trim()) {
                 response = "Correct! o(〃＾▽＾〃)o \n\n" + response;
+                correct += 1;
+                document.getElementById("score").textContent = "Score: " + correct + " / " + questions.length;
             } else {
                 response = "Wrong! (╥﹏╥) \n\n" + response;
             }
@@ -158,4 +165,8 @@ function lockRadios(formId) {
     const form = document.getElementById(formId);
     const radios = form.querySelectorAll('input[name="choice"]');
     radios.forEach(r => r.disabled = true);
+}
+
+function goToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
