@@ -70,3 +70,19 @@ input[type="radio"] {
     display: inline-block;
     border: none;
 }
+
+#myText {
+    background-color: #EBD6FB;
+    border: #DC8BE0 2px solid;
+}
+
+::selection {
+    background-color: #F8F8E1;
+    color: #000000;
+}
+
+a {
+    color: #F564A9;
+    font-style: normal;
+    text-decoration: none;
+}

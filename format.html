@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="pretty.jpg" type="image/x-icon">
+    <title>iloveyou :> ❤</title>
+</head>
+<br>
+<body>
+    <a href="index.html"><button class="custom-file-label">Go Back ←</button></a>
+    <div id="main-div" align="center">
+        <h1>( ﾉ ﾟｰﾟ)ﾉ Instructions on how to format the txt file ＼(ﾟｰﾟ＼)</h1>
+        <p>Please follow the instructions below to ensure your text file is properly formatted for the Reviewer App. (＾▽＾)</p>
+        <hr>
+        <div align="left" style="font-size: 20px; font-family: 'Arial';">
+            <p>1. Go to <a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer">Gemini</a></p>
+            <p>2. Drag the unformatted text file on to the input bar</p>
+            <img src="img/drag.png">
+            <p>3. Copy the text below</p>
+            <div style="display: flex; gap: 10px; align-items: center;">
+                <textarea id="myText" rows="4" cols="50" placeholder="Type something here..." style="overflow:hidden; resize:none; height: 270px; width: 900px;" readonly></textarea>
+                <button onclick="copyText()" class="custom-file-label">Copy</button>
+            </div>
+            <p>4. Paste the text on the input bar and submit</p>
+            <img src="img/paste.png">
+            <p>5. Wait for the response and copy the output</p>
+            <p>6. Paste the output on a text file and save it as .txt</p>
+            <p>7. If something goes wrong, chat me on <a href="https://www.facebook.com/jrm.dsr" target="_blank" rel="noopener noreferrer">Facebook</a></p>
+            <p>8. Enjoy using the app! ~\(≧▽≦)/~</p>
+            <br><br><br><br><br>
+            <h5 class="cute-no-hover">Made with ❤ by Christian Jerome V. Desear</h5>
+            <script>
+                document.getElementById("myText").value = 
+`format the contents of the file exactly like the example.
+Do not include anything else in the output.
+If there is no idicated answer, search for the answer and make sure it's correct.
+Remove anything not related to the questions like "[cite 109]" or any other that doesn't add context to the question.
+
+Example:
+---
+question: 1. Nurse Bini needs to have a fundamental understanding of _______to be effective in her caregiving role to various types of clients in the community.
+choices: -A. statistics -B. research -C. nursing process -D. nursing theories
+answer: C. nursing process
+---
+question: 2. Nurse Bini should be aware that the PRIMARY goal of CHN is to emphasize the essence of ______ in her role as a planner/programmer in the community.
+choices: -A. optimum health and wellness. -B. restoration of full function -C. rehabilitative part of care -D. Curative aspect of care
+answer: A. optimum health and wellness.
+---`;
+                function copyText() {
+                    const textarea = document.getElementById("myText");
+                    textarea.select();
+                    textarea.setSelectionRange(0, 99999);
+                    navigator.clipboard.writeText(textarea.value)
+                }
+            </script>
+        </div>
+    </div>
+    
+</body>
+</html>
