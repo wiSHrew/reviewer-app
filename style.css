@@ -77,8 +77,8 @@ input[type="radio"] {
 }
 
 ::selection {
-    background-color: #F8F8E1;
-    color: #000000;
+    background-color: #4DFFBE;
+    color: black;
 }
 
 a {
