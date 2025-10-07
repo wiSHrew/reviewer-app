@@ -8,13 +8,16 @@ let answers = [];
 let indexes = [];
 
 function processFile() {
-  const input = document.getElementById('fileInput');
-  const file = input.files[0];
-  if (!file) return;
+    document.getElementById("questions").innerHTML = "";
 
-  const reader = new FileReader();
 
-  reader.onload = function() {
+    const input = document.getElementById('fileInput');
+    const file = input.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function() {
     questionsString = reader.result;
 
     // split the file into blocks by the separator '---'
@@ -65,13 +68,13 @@ function processFile() {
     for (let i = 0; i < indexes.length; i++) {
         displayQuestion(indexes[i], i);
     }
-  };
+    };
 
-  reader.readAsText(file);
+    reader.readAsText(file);
 }
 
 function displayQuestion(index, i) {
-    const mainDiv = document.getElementById("main-div");
+    const mainDiv = document.getElementById("questions");
 
     // make a div
     const questionsDiv = document.createElement("div");
