@@ -1,0 +1,401 @@
+﻿---
+question: 1. Which of the following are the four chronic disease referred to by WHO? 1. Cardiovascular Disease 2. Cancer 3. Dementia 4. Arthritis 5. Diabetes Mellitus 6. Chronic Obstructive Lung Disease
+choices: -a. 1,2,3 and 4 -b. 1,2,5 and 6 -c. 2,3,4 and 5 -d. 2,4,5 and 6
+answer: B. 1,2,5 and 6
+---
+question: 2. The WHO reveals that the NUMBER ONE cause of death from chronic diseases worldwide, using the 2015 estimate, is _______.
+choices: -a. Tuberculosis -b. Diabetes Mellitus -c. Ischemic Heart Disease -d. Pneumonia
+answer: C. Ischemic Heart Disease
+---
+question: 3. In the Philippines, which is the TOP Killer according to the Department of Health (2009 data)?
+choices: -a. Asthma -b. Cancer -c. Tuberculosis -d. Cardiovascular Diseases
+answer: D. Cardiovascular Diseases
+---
+question: 4. When studying chronic diseases, the multifactorial etiology of illness is considered. What does this imply?
+choices: -a. Single organism that causes the disease, such as cholera, must be studied in more detail. -b. Focus should be on the factors or combinations and levels of factors contributing to disease. -c. The rise in infectious and communicable disease must be the main focus. -d. Genetics and molecular structure of disease is paramount.
+answer: B. Focus should be on the factors or combinations and levels of factors contributing to disease.
+---
+question: 5. Determinants of health to address the development of cancer in a community include: 1. Proximity of the community to chemical plants that emit poisonous gases. 2. High percentage of tobacco use among the residents. 3. Prevailing diet high in processed food and fat. 4. Availability of the health facilities. 5. Men age of women population.
+choices: -a. 3,4 and 5 -b. 1,2 and 3 -c. 1,3 and 4 -d. 2,4 and 5
+answer: B. 1,2 and 3
+---
+question: 6. Your co-worker got a thank you card from a patient’s family with an accompanying photo showing the co-worker and the patient's family. She asked you if it would be alright to post the post on facebook. Which would be your BEST response?
+choices: -a. Ask permission from the head nurse first. -b. Ask the patient’s family if that would be okay. -c. No, you might be liable for a malpractice suit. -d. No, posting pictures or any information about a patient in social media is not acceptable.
+answer: D. No, posting pictures or any information about a patient in social media is not acceptable.
+---
+question: 7. Identify which action is acceptable as an exception to a nurse’s obligation regarding confidentiality.
+choices: -a. Leaving printouts of patient information on the desk. -b. Discussing a patient’s care with someone not involved in the care. -c. Discussing a patient’s condition in a public place with family members. -d. Reporting certain disease to public health authority.
+answer: D. Reporting certain disease to public health authority.
+---
+question: 8. Which of the following statements are TRUE about standards of nursing care? 1. Basic prudent nursing care is a standard. 2. Any health care provider can determine standards of care. 3. Standards of care are never changing. 4. Standards are based on the ethical principle of non-maleficence. 5. National standards of nursing practice are standards for all nurses.
+choices: -a. 1,2 and 3 -b. 2,3 and 4 -c. 1, 4 and 5 -d. 3,4 and 5
+answer: C. 1, 4 and 5
+---
+question: 9. Select the nursing responsibility which can NEVER be delegated.
+choices: -a. Rotation schedule of the staff -b. Evaluation of the patient’s health status -c. Accountability for the nursing action -d. Complex procedure
+answer: C. Accountability for the nursing action
+---
+question: 10. Which ones are NOT acceptable standard of actions by the nurse? 1. Keeping current year license 2. Being a witness to a patient’s will 3. Following policies and procedures 4. Protecting patients from injuring themselves 5. Accepting money or gift from patients 6. Giving practical advice contrary to the doctor’s orders
+choices: -a. 1,4, 6 -b. 1,3,4 -c. 2,4,5 -d. 5,6
+answer: D. 5,6
+---
+question: 11. Mrs. A’s husband passed away last year. She has two children who live with her. This type of family is an example of a:
+choices: -a. Single-parent family -b. Nuclear family -c. Cohabitation family -d. Blended family
+answer: A. Single-parent family
+---
+question: 12. The family is open and democratic; family members freely interact and respect individual differences. This is an example of an:
+choices: -a. A family with rigid communication patterns. -b. A closed family system. -c. A family with poor communication patterns. -d. A family with loosely structured communication patterns.
+answer: D. A family with loosely structured communication patterns.
+---
+question: 13. Health problem: Lack of family planning practice. This is considered a:
+choices: -a. Foreseeable crisis -b. Health threat -c. Health deficit -d. Wellness potential
+answer: B. Health threat
+---
+question: 14. Which family nursing problem is most likely a health deficit?
+choices: -a. Smoking among family members. -b. Stress related to a family member with a stroke. -c. Lack of communication between husband and wife. -d. History of hypertension among family members.
+answer: B. Stress related to a family member with a stroke.
+---
+question: 15. You decide to work with the husband and wife on their lack of communication. This is considered a/an:
+choices: -a. Wellness Potential -b. Health Threat -c. Health Deficit -d. Foreseeable Crisis
+answer: B. Health Threat
+---
+question: 16. You assess the family and find that the mother has a limited understanding of how to manage her child's diabetes. This is a deficiency in:
+choices: -a. Knowledge -b. Attitude -c. Psychomotor skills -d. Motivation
+answer: A. Knowledge
+---
+question: 17. Which is the FIRST step in the health education process?
+choices: -a. Planning and implementation -b. Assessment of learning needs -c. Evaluation of learning -d. Documentation
+answer: B. Assessment of learning needs
+---
+question: 18. In health education, which is the most important element?
+choices: -a. Nurse -b. Content -c. Learner -d. Setting
+answer: C. Learner
+---
+question: 19. You are teaching a new mother on how to breastfeed. Which domain of learning is MOST appropriate?
+choices: -a. Cognitive -b. Affective -c. Psychomotor -d. Behavioral
+answer: C. Psychomotor
+---
+question: 20. A newly hired nurse asks you what the primary purpose of health education is. Your BEST response would be:
+choices: -a. To inform the patient about their illness. -b. To ensure compliance with the doctor's orders. -c. To change the behavior of the learner to promote health. -d. To provide a list of health resources.
+answer: C. To change the behavior of the learner to promote health.
+---
+question: 21. Which statement is TRUE about the nursing process?
+choices: -a. It is systematic and dynamic. -b. It is circular and static. -c. It is goal-oriented and rigid. -d. It is fragmented and intermittent.
+answer: A. It is systematic and dynamic.
+---
+question: 22. What is the fundamental step in the nursing process?
+choices: -a. Diagnosing -b. Assessment -c. Planning -d. Evaluation
+answer: B. Assessment
+---
+question: 23. The nursing diagnosis is a clinical judgment about:
+choices: -a. The patient’s medical condition as defined by the physician. -b. The nurse's actions and interventions. -c. The doctor’s orders and treatment plan. -d. Individual, family, or community responses to actual or potential health problems/life processes.
+answer: D. Individual, family, or community responses to actual or potential health problems/life processes.
+---
+question: 24. Which nursing activity is part of the planning stage?
+choices: -a. Data gathering and collection -b. Identifying the health problem -c. Setting goals and formulating desired outcomes -d. Implementing the care plan
+answer: C. Setting goals and formulating desired outcomes
+---
+question: 25. The nurse is evaluating the effectiveness of the home care visit. Which question BEST determines if the intervention was effective?
+choices: -a. Was the mother receptive to the teaching? -b. Were the resources efficiently used? -c. Was the objective met? -d. Was the care plan properly documented?
+answer: C. Was the objective met?
+---
+question: 26. The nurse first establishes rapport with the community leaders and members. This is the activity of:
+choices: -a. Community Diagnosis -b. Community Assessment -c. Core Group Formation -d. Community Entry
+answer: D. Community Entry
+---
+question: 27. Which activity best exemplifies "integration" in community organizing?
+choices: -a. Holding a meeting with the local officials -b. Living with the community members and sharing their lifestyle -c. Conducting a survey to gather data -d. Identifying the most pressing health problems
+answer: B. Living with the community members and sharing their lifestyle
+---
+question: 28. The nurse gathers data on the community's health status, needs, and resources. This is:
+choices: -a. Community Assessment -b. Community Entry -c. Community Diagnosis -d. Planning
+answer: A. Community Assessment
+---
+question: 29. In community organizing, which phase involves core group formation and leadership identification?
+choices: -a. Community Assessment -b. Community Entry -c. Organizing the Community -d. Mobilization
+answer: C. Organizing the Community
+---
+question: 30. The ultimate goal of community organizing is:
+choices: -a. To eradicate all diseases in the community. -b. To ensure the nurse is the primary health leader. -c. To provide all necessary resources to the community. -d. Community empowerment and self-reliance.
+answer: D. Community empowerment and self-reliance.
+---
+question: 31. Which is the BEST source of health information about the community's general health status?
+choices: -a. Health records and documents (e.g., morbidity and mortality statistics) -b. Anecdotal reports from the community leader -c. Informal discussion with residents -d. The nurse's observation during a short visit
+answer: A. Health records and documents (e.g., morbidity and mortality statistics)
+---
+question: 32. Which is a primary source of data in community assessment?
+choices: -a. Census data -b. Observation -c. Annual reports -d. Published articles
+answer: B. Observation
+---
+question: 33. Which is a secondary source of data?
+choices: -a. Survey conducted by the nurse -b. Focus group discussion -c. Windshield survey -d. Birth records
+answer: D. Birth records
+---
+question: 34. Which is the best method to get the community's perspective on a particular issue and foster participation?
+choices: -a. Individual interviews with key informants -b. Community Assembly/Forum -c. Review of health records -d. Conducting a written survey
+answer: B. Community Assembly/Forum
+---
+question: 35. The nurse is listing down the diseases present in the community based on health center records. This activity falls under:
+choices: -a. Data Collection -b. Data Analysis -c. Identifying Health Problems -d. Prioritization
+answer: A. Data Collection
+---
+question: 36. A community diagnosis focuses on:
+choices: -a. The illness of one client in the community -b. The health status of key community leaders -c. The resources available for one health problem -d. The whole community as the client
+answer: D. The whole community as the client
+---
+question: 37. The nurse has completed data collection and analysis. The next step is:
+choices: -a. Setting goals -b. Formulating a community diagnosis -c. Implementing the plan -d. Evaluating the outcome
+answer: B. Formulating a community diagnosis
+---
+question: 38. A community diagnosis statement usually consists of: 1. Health status or problem 2. Environmental factor 3. The community response to the problem 4. Risk factors/Contributing factors
+choices: -a. 1 and 2 only -b. 2 and 3 only -c. 1, 2 and 3 -d. 1, 3 and 4
+answer: D. 1, 3 and 4
+---
+question: 39. The nurse has prioritized the health problems. Which criterion is given the highest weight during scoring?
+choices: -a. Magnitude of the problem -b. Nature of the problem -c. Social concern -d. Feasibility of correction
+answer: A. Magnitude of the problem
+---
+question: 40. Which criterion is used to determine the urgency of a health problem, specifically whether it is a wellness, threat, or deficit?
+choices: -a. Magnitude of the problem -b. Nature of the problem -c. Social concern -d. Feasibility of correction
+answer: B. Nature of the problem
+---
+question: 41. Which statement is TRUE about interdisciplinary teamwork?
+choices: -a. It involves professionals from the same discipline working together. -b. It involves shared goal setting and collaboration among different healthcare professionals. -c. It means each professional works independently on their own goals. -d. It is only necessary in tertiary hospital settings.
+answer: B. It involves shared goal setting and collaboration among different healthcare professionals.
+---
+question: 42. The primary purpose of interdisciplinary collaboration is to:
+choices: -a. Reduce the workload of the nurse. -b. Minimize communication errors. -c. Improve patient outcomes and quality of care. -d. Fulfill legal requirements for documentation.
+answer: C. Improve patient outcomes and quality of care
+---
+question: 43. Which is the MOST essential quality for effective interdisciplinary teamwork?
+choices: -a. Mutual respect and trust -b. The presence of a dominant leader -c. Similar educational background -d. Working in the same location
+answer: A. Mutual respect and trust
+---
+question: 44. Which is a common barrier to effective interdisciplinary collaboration?
+choices: -a. Clear communication protocols -b. Shared electronic health records -c. A focus on patient-centered care -d. Differing professional roles and responsibilities and hierarchy
+answer: D. Differing professional roles and responsibilities and hierarchy
+---
+question: 45. The nurse works with a nutritionist to develop a diet plan for a diabetic client and they discuss the plan together before presenting it to the client. This is an example of:
+choices: -a. Interprofessional Collaboration -b. Unilateral Decision Making -c. Parallel Practice -d. Interdisciplinary Conflict
+answer: A. Interprofessional Collaboration
+---
+question: 46. The nurse leader involves all staff in decision-making and fosters consensus before taking action. This is an example of:
+choices: -a. Autocratic leadership -b. Transactional leadership -c. Democratic leadership -d. Laissez-faire leadership
+answer: C. Democratic leadership
+---
+question: 47. A nurse manager makes decisions without consulting the staff and gives clear, non-negotiable instructions. This is:
+choices: -a. Autocratic leadership -b. Transformational leadership -c. Participative leadership -d. Coaching leadership
+answer: A. Autocratic leadership
+---
+question: 48. A nurse manager allows the staff to make their own decisions, providing minimal guidance or direction. This is:
+choices: -a. Situational leadership -b. Servant leadership -c. Charismatic leadership -d. Laissez-faire leadership
+answer: D. Laissez-faire leadership
+---
+question: 49. Which leadership style is MOST effective in a crisis or emergency situation?
+choices: -a. Autocratic leadership -b. Democratic leadership -c. Laissez-faire leadership -d. Transformational leadership
+answer: A. Autocratic leadership
+---
+question: 50. Which leadership style is BEST for promoting professional growth and development of staff, encouraging them to take ownership and innovate?
+choices: -a. Autocratic leadership -b. Laissez-faire leadership -c. Democratic leadership -d. Transactional leadership
+answer: C. Democratic leadership
+---
+question: 51. Which is the FIRST phase of disaster preparedness, focused on long-term actions to reduce the impact of hazards?
+choices: -a. Mitigation -b. Preparedness -c. Response -d. Recovery
+answer: A. Mitigation
+---
+question: 52. The nurse teaches the community about evacuation routes and assembling emergency supplies (Go-bags). This is an activity of:
+choices: -a. Mitigation -b. Response -c. Preparedness -d. Recovery
+answer: C. Preparedness
+---
+question: 53. The nurse is involved in search and rescue operations after a typhoon and sets up a field clinic. This is an activity of:
+choices: -a. Mitigation -b. Recovery -c. Preparedness -d. Response
+answer: D. Response
+---
+question: 54. The community is rebuilding damaged infrastructure and restoring essential services to normal. This is an activity of:
+choices: -a. Response -b. Recovery -c. Preparedness -d. Mitigation
+answer: B. Recovery
+---
+question: 55. The nurse's role in the *response* phase of a disaster is:
+choices: -a. Developing an emergency communication plan. -b. Conducting community risk assessment. -c. Providing immediate life-saving interventions and triage. -d. Psychosocial support in the aftermath.
+answer: C. Providing immediate life-saving interventions and triage.
+---
+question: 56. The primary purpose of disaster triage is to:
+choices: -a. Prioritize victims for treatment based on their need and chance of survival. -b. Send all injured people to the nearest hospital immediately. -c. Only treat the victims with the most severe injuries. -d. Determine which victims are covered by insurance.
+answer: A. Prioritize victims for treatment based on their need and chance of survival.
+---
+question: 57. Which is the highest priority color tag in triage, indicating an immediate threat to life but with a high probability of survival if treated quickly?
+choices: -a. Red -b. Yellow -c. Green -d. Black
+answer: A. Red
+---
+question: 58. A victim has minor cuts and abrasions but is walking and alert. The color tag is:
+choices: -a. Red -b. Yellow -c. Black -d. Green
+answer: D. Green
+---
+question: 59. A victim is pulseless, apneic, and has massive head trauma. There is no hope of recovery given the available resources. The color tag is:
+choices: -a. Red -b. Yellow -c. Black -d. Green
+answer: C. Black
+---
+question: 60. A victim has a major fracture that requires surgery but is stable, breathing normally, and their circulation is adequate. The color tag is:
+choices: -a. Red -b. Yellow -c. Green -d. Black
+answer: B. Yellow
+---
+question: 61. The major function of the Department of Health (DOH) in the Philippines is:
+choices: -a. To be the national policy and regulating institution for health. -b. To provide direct, curative care to all citizens. -c. To manage all tertiary hospitals in the country. -d. To manage the health insurance for all Filipinos.
+answer: A. To be the national policy and regulating institution for health.
+---
+question: 62. Which law devolved health services from the national government to Local Government Units (LGUs)?
+choices: -a. Magna Carta of Public Health Workers (RA 7305) -b. Philippine Nursing Act of 2002 (RA 9173) -c. Local Government Code (RA 7160) -d. Universal Health Care Act (RA 11223)
+answer: C. Local Government Code (RA 7160)
+---
+question: 63. The *entry point* of a client into the health care system is usually the:
+choices: -a. Tertiary level of care -b. Secondary level of care -c. Specialized hospital -d. Primary level of care (e.g., Rural Health Unit/Barangay Health Station)
+answer: D. Primary level of care (e.g., Rural Health Unit/Barangay Health Station)
+---
+question: 64. The highest level of health care facility that provides specialized medical and surgical services and serves as a training ground is the:
+choices: -a. Primary level of care -b. Secondary level of care -c. Tertiary level of care -d. Barangay Health Station
+answer: C. Tertiary level of care
+---
+question: 65. The PRIMARY goal of the Philippine Health Care Delivery System is to:
+choices: -a. Achieve Universal Health Care (Kalusugan Pangkalahatan). -b. Focus only on communicable disease prevention. -c. Ensure all nurses are employed in the country. -d. Centralize all health decisions in the DOH.
+answer: A. Achieve Universal Health Care (Kalusugan Pangkalahatan).
+---
+question: 66. The Universal Health Care (UHC) law (RA 11223) ensures that every Filipino is enrolled in:
+choices: -a. SSS -b. GSIS -c. PhilHealth -d. PAG-IBIG
+answer: C. PhilHealth
+---
+question: 67. UHC aims to shift the focus of the health care system from curative to:
+choices: -a. Hospital-based care -b. Preventive and Promotive health care -c. Tertiary-level services -d. Specialized medical procedures
+answer: B. Preventive and Promotive health care
+---
+question: 68. Which is a key feature of UHC regarding service delivery?
+choices: -a. Centralization of all services in Manila. -b. Focus only on catastrophic illnesses. -c. Exclusively private health care provision. -d. Establishment of an integrated and comprehensive service delivery network.
+answer: D. Establishment of an integrated and comprehensive service delivery network.
+---
+question: 69. The *main* financing arm of the UHC law for health insurance is:
+choices: -a. PhilHealth -b. Department of Finance -c. Local Government Units -d. Private Health Insurance Companies
+answer: A. PhilHealth
+---
+question: 70. UHC aims to provide Filipinos with:
+choices: -a. Only free medication -b. Accessible, affordable, and quality health care services -c. Unlimited access to all specialist doctors -d. Free housing and food
+answer: B. Accessible, affordable, and quality health care services
+---
+question: 71. The ethical principle that requires the nurse to do good and maximize benefit for the patient is:
+choices: -a. Justice -b. Non-maleficence -c. Beneficence -d. Autonomy
+answer: C. Beneficence
+---
+question: 72. The ethical principle that requires the nurse to avoid doing harm is:
+choices: -a. Non-maleficence -b. Beneficence -c. Justice -d. Veracity
+answer: A. Non-maleficence
+---
+question: 73. The ethical principle that respects the patient's right to self-determination and to make decisions about their own health care is:
+choices: -a. Beneficence -b. Non-maleficence -c. Justice -d. Autonomy
+answer: D. Autonomy
+---
+question: 74. The ethical principle that requires the nurse to be fair and treat all patients equally, ensuring resources are distributed properly, is:
+choices: -a. Beneficence -b. Justice -c. Autonomy -d. Fidelity
+answer: B. Justice
+---
+question: 75. The nurse ensures that the patient understands the treatment and accepts it before proceeding with the procedure. This fulfills the principle of:
+choices: -a. Non-maleficence -b. Justice -c. Beneficence -d. Autonomy
+answer: D. Autonomy
+---
+question: 76. Which is the FIRST step in resolving an ethical dilemma?
+choices: -a. Implement the chosen action. -b. Select the best course of action. -c. Gather all relevant information about the dilemma. -d. Evaluate the outcomes.
+answer: C. Gather all relevant information about the dilemma.
+---
+question: 77. The nurse identifies the conflicting ethical principles (e.g., Autonomy vs. Beneficence) and professional standards involved. This is part of:
+choices: -a. Exploring alternative actions -b. Implementing the decision -c. Evaluating the outcomes -d. Identifying the ethical problem and principles
+answer: D. Identifying the ethical problem and principles
+---
+question: 78. The nurse considers different courses of action and their potential consequences for the patient, family, and team. This is part of:
+choices: -a. Exploring alternative actions -b. Implementing the decision -c. Evaluating the outcomes -d. Documenting the dilemma
+answer: A. Exploring alternative actions
+---
+question: 79. The nurse chooses the best course of action that respects the patient's rights and follows professional standards, and then carries it out. This is:
+choices: -a. Exploring alternative actions -b. Implementing the decision -c. Documenting the dilemma -d. Evaluating the outcomes
+answer: B. Implementing the decision
+---
+question: 80. The nurse evaluates the outcome of the chosen action, asking, "Did the action resolve the ethical conflict and was the best interest of the patient achieved?" This is the last step:
+choices: -a. Implementing the decision -b. Documenting the dilemma -c. Reporting the situation -d. Evaluating the outcomes
+answer: D. Evaluating the outcomes
+---
+question: 81. The primary purpose of nursing documentation is:
+choices: -a. To inform the patient about their diagnosis. -b. To serve as a communication tool between nurses only. -c. To provide a legal record of the care provided. -d. To justify the nurse's salary.
+answer: C. To provide a legal record of the care provided.
+---
+question: 82. Which characteristic of documentation ensures that care is accurately reflected and supported by evidence?
+choices: -a. Timeliness -b. Legibility -c. Completeness -d. Factual
+answer: D. Factual
+---
+question: 83. The nurse writes "Patient seems depressed today." This violates which principle of documentation?
+choices: -a. Timeliness -b. Objectivity -c. Completeness -d. Factual
+answer: B. Objectivity
+---
+question: 84. The nurse writes a late entry for an intervention that happened 4 hours ago. What should the nurse do?
+choices: -a. Erase the whole entry and start over. -b. Ask a co-worker to backdate the entry. -c. Write "Late Entry" and record the correct date and time of the event. -d. Write the entry as if it happened just now.
+answer: C. Write "Late Entry" and record the correct date and time of the event.
+---
+question: 85. Which is the BEST documentation entry?
+choices: -a. Patient felt bad all night. -b. Patient seems better today after medication. -c. Patient ate half of lunch and denied pain when walking to the bathroom. -d. Patient tolerated ambulation well for 5 minutes.
+answer: C. Patient ate half of lunch and denied pain when walking to the bathroom.
+---
+question: 86. Therapeutic communication is the use of communication skills to:
+choices: -a. Help the patient to achieve their health goals. -b. Provide a monologue to the patient about their illness. -c. Maintain social distance between the nurse and patient. -d. Complete the documentation quickly.
+answer: A. Help the patient to achieve their health goals.
+---
+question: 87. Which technique is MOST effective for exploring a patient's feelings and encouraging them to elaborate?
+choices: -a. Giving advice -b. Asking "Why?" questions -c. Using close-ended questions -d. Using open-ended questions
+answer: D. Using open-ended questions
+---
+question: 88. The nurse says "Tell me more about what you mean by 'feeling lost'." This technique is:
+choices: -a. Focusing -b. Clarification -c. Restating -d. Offering self
+answer: B. Clarification
+---
+question: 89. Which is a non-therapeutic communication technique?
+choices: -a. Reflecting -b. Active Listening -c. Giving advice -d. Focusing
+answer: C. Giving advice
+---
+question: 90. The nurse maintains silence during a difficult conversation with a patient, giving the patient time to think and express emotions. This is an example of:
+choices: -a. A communication barrier -b. Poor communication skills -c. Defensive silence -d. Therapeutic use of silence
+answer: D. Therapeutic use of silence
+---
+question: 91. The patient is experiencing restlessness, mild discomfort, and slight increase in vital signs. This is:
+choices: -a. Mild anxiety -b. Moderate anxiety -c. Severe anxiety -d. Panic
+answer: A. Mild anxiety
+---
+question: 92. The patient is focused only on the immediate concern and has a narrow perceptual field. Selective inattention is present. This is:
+choices: -a. Mild anxiety -b. Moderate anxiety -c. Severe anxiety -d. Panic
+answer: B. Moderate anxiety
+---
+question: 93. The patient is highly distracted, scattered, and unable to process information. Learning is impossible. This is:
+choices: -a. Mild anxiety -b. Moderate anxiety -c. Severe anxiety -d. Panic
+answer: C. Severe anxiety
+---
+question: 94. Ana, a patient, starts hyperventilating and trembling. The nurse's BEST first nursing action is:
+choices: -a. Refer Ana to the attending physician immediately -b. Let Ana put her head in-between her legs and coach her breathing -c. Administer an anti-emetic drug -d. Offering Ana some ice chips
+answer: B. Let Ana put her head in-between her legs and coach her breathing
+---
+question: 95. You have observed Ana to be pacing in the room, restless, and stutters when speaking to her. You would assess Ana as manifesting which of the following global anxiety response?
+choices: -a. Cognitive -b. Behavioral -c. Motor -d. Biological
+answer: B. Behavioral
+---
+question: 96. Verbal communication is the use of words when talking to your patient. Which element makes verbal communication effective?
+choices: -a. understandable phase -b. content -c. the circumstances -d. understandable sentences
+answer: D. understandable sentences
+---
+question: 97. Context of a verbal communication is the:
+choices: -a. use of understandable sentences -b. use of literal words -c. use of clear sentence -d. environmental where communication occurs
+answer: D. environmental where communication occurs
+---
+question: 98. Non-verbal communication is the behavior that accompanies verbal communication. Which of the following is NOT an indicator of this?
+choices: -a. Eye Contact -b. Word representing an object -c. Grunts and groans -d. Body language
+answer: B. Word representing an object
+---
+question: 99. Which of the following give meaning and context to the message?
+choices: -a. Process -b. Phrases and sentences -c. Context -d. Thoughts and feelings
+answer: C. Context
+---
+question: 100. Which of the following situation is an example of incongruent message?
+choices: -a. When the nurse means what she says -b. When the words and behavior of the nurse agree -c. When what the nurse says and does do not agree -d. When content and process agree
+answer: C. When what the nurse says and does do not agree
+---

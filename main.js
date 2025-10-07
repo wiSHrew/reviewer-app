@@ -5,7 +5,7 @@ let answersString = "";
 let questions = [];
 let choices = [];
 let answers = [];
-let index = 0;
+let indexes = [];
 
 function processFile() {
   const input = document.getElementById('fileInput');
@@ -16,124 +16,143 @@ function processFile() {
 
   reader.onload = function() {
     questionsString = reader.result;
-    document.getElementById('output').textContent = questionsString;
-    
-    // split questions, choices and answers
-    answersString = questionsString.split('AnswerKey')[1];
-    questions = questionsString.split('AnswerKey')[0].split('\n');
-    answers = answersString.split('\n');
 
-    let allysa = [];
-    // clean empty lines
-    for (let i = 0; i < questions.length; i++) {
-        if (questions[i].trim() === "") continue;
-        if (questions[i].trim().includes("Question")) continue;
-        allysa.push(questions[i]);
-    }
-    questions = allysa;
-    allysa = [];
+    // split the file into blocks by the separator '---'
+    let blocks = questionsString.split('---');
 
-    // separate choices
-    for (let i = 0; i < questions.length; i++) {
-        if (questions[i].includes('A. ') || questions[i].includes('B. ') || questions[i].includes('C. ') || questions[i].includes('D. ')) {
-            choices.push(questions[i]);
-            allysa.push(i);
+    for (let block of blocks) {
+        block = block.trim();
+        if (block === "") continue; // skip empty blocks
+
+        // extract question
+        let questionMatch = block.match(/question:\s*\d*\.\s*(.+)/i);
+        if (questionMatch) questions.push(questionMatch[1].trim());
+
+        // extract choices
+        let choicesMatch = block.match(/choices:(.+)/i);
+        if (choicesMatch) {
+            let opts = choicesMatch[1].split(' -').filter(opt => opt.trim() !== "");
+            opts = opts.map(opt => opt.trim());
+            choices.push(opts);
         }
-    }
-    allysa.sort((a, b) => b - a);
-    // remove choices from questions
-    for (let i = 0; i < allysa.length; i++) {
-        questions.splice(allysa[i], 1);
-    }
-    allysa = [];
 
-    // group the choices by 4
-    for (let i = 0; i < choices.length; i += 4) {
-        let group = choices.slice(i, i + 4);
-        allysa.push(group);
+        // extract answer
+        let answerMatch = block.match(/answer:\s*(.+)/i);
+        if (answerMatch) answers.push(answerMatch[1].trim());
     }
-    choices = allysa;
-    allysa = [];
 
-    // clean empty lines
-    for (let i = 0; i < answers.length; i++) {
-        if (answers[i].trim() === "") continue;
-        allysa.push(answers[i]);
+    // check counts
+    const output = document.getElementById("output");
+    if (questions.length !== choices.length || questions.length !== answers.length) {
+        output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
+        return;
     }
-    answers = allysa;
-    allysa = [];
+    else{
+        output.textContent = file.name + " loaded! \nTotal Questions: " + questions.length + "\n o(^▽^)o";
+    }
+
+    console.log("Questions:", questions);
+    console.log("Choices:", choices);
+    console.log("Answers:", answers);
+
+    for (let i = 0; i < questions.length; i++) {
+        indexes.push(i);
+    }
+
+    indexes.sort(() => Math.random() - 0.5); // shuffle indexes
 
     // start the review
-    document.getElementById("choicesForm").hidden = false;
-    document.getElementById("next").hidden = false;
-    nextQuestion(index);
-
-    console.log(questions);
-    console.log(choices);
-    console.log(answers);
+    for (let i = 0; i < indexes.length; i++) {
+        displayQuestion(indexes[i], i);
+    }
   };
 
   reader.readAsText(file);
 }
 
-function nextQuestion() {
-    index++;
-    if (index < questions.length) {
-        displayQuestion(index);
-    } else {
-        document.getElementById("output").textContent = "End of questions! \\(0^◇^0)/";
-        document.getElementById("choicesForm").hidden = true;
-        document.getElementById("next").hidden = true;
-        document.getElementById("answer").hidden = true;
-    }
-}
+function displayQuestion(index, i) {
+    const mainDiv = document.getElementById("main-div");
 
-function displayQuestion(index) {
-    // reset form
-    unlockRadios();
+    // make a div
+    const questionsDiv = document.createElement("div");
+    questionsDiv.style.textAlign = "left";
+    questionsDiv.style.fontFamily = "'Arial', serif";
+    questionsDiv.style.fontSize = "25px";
+    questionsDiv.class = "question-block";
+
+    // add a horizontal line
+    const hr = document.createElement("hr");
+    mainDiv.appendChild(hr);
+
+    // add numbering
+    const number = document.createElement("h2");
+    number.textContent = `Question ${i + 1}`;
+    questionsDiv.appendChild(number);
 
     // display question
-    const output = document.getElementById('output');
-    output.textContent = questions[index] + "\n";
+    const output = document.createElement("p");
+    output.textContent = questions[index];
+    questionsDiv.appendChild(output);
 
     // display choices
+    const form = document.createElement("form");
+    form.id = `choicesForm-${index}`;
+
     const letters = ['a', 'b', 'c', 'd'];
     for (let i = 0; i < 4; i++) {
         let letter = letters[i];
-        const labelElement = document.querySelector(`label[for="${letter}"]`);
-        labelElement.textContent = choices[index][i];
+
+        const choice = document.createElement("input");
+        choice.type = "radio";
+        choice.name = "choice"; // group radios together
+        choice.id = letter;
+        choice.value = letter;
+        choice
+
+        const label = document.createElement("label");
+        label.htmlFor = letter;
+        label.textContent = choices[index][i];
+
+        // put radio + label on the same line
+        form.appendChild(choice);
+        form.appendChild(label);
+        form.appendChild(document.createElement("br"));
     }
 
-    // wait for user input and check answer
-    document.getElementById('choicesForm').addEventListener('change', function(event) {
+    questionsDiv.appendChild(form);
+
+    // create area for the answer feedback
+    const answerh3 = document.createElement("h3");
+    answerh3.id = "answer";
+    questionsDiv.appendChild(answerh3);
+
+    // add event listener directly to form
+    form.addEventListener('change', function(event) {
         if (event.target.name === 'choice') {
             const selectedValue = event.target.value;
-            console.log('You selected:', selectedValue);
-            let letterAns = answers[index].split('.')[0].toLowerCase();
-            let answer = answers[index].split(letterAns);
+
+            lockRadios(form.id); // lock the radios
+
+            const letterAns = answers[index].split('.')[0].toLowerCase();
+            let response = answers[index];
+
             if (selectedValue === letterAns.trim()) {
-                answer = "Correct! o(〃＾▽＾〃)o\n" + answer;
+                response = "Correct! o(〃＾▽＾〃)o \n\n" + response;
+            } else {
+                response = "Wrong! (╥﹏╥) \n\n" + response;
             }
-            else {
-                answer = "Wrong! (╥﹏╥)\n" + answer;
-            }
-            document.getElementById("answer").textContent = answer;
-            lockRadios();
+
+            answerh3.textContent = response;
         }
     });
+
+    // finally, show the question on screen
+    mainDiv.appendChild(questionsDiv); // hide the main div
+    // document.body.appendChild(questionsDiv);
 }
 
-
-function lockRadios() {
-    const radios = document.querySelectorAll('input[name="choice"]');
+function lockRadios(formId) {
+    const form = document.getElementById(formId);
+    const radios = form.querySelectorAll('input[name="choice"]');
     radios.forEach(r => r.disabled = true);
-    document.getElementById("next").disabled = false;
-}
-
-function unlockRadios() {
-    const radios = document.querySelectorAll('input[name="choice"]');
-    radios.forEach(r => r.disabled = false);
-    radios.forEach(r => r.checked = false);
-    document.getElementById("next").disabled = true;
-    document.getElementById("answer").textContent = "";
 }
