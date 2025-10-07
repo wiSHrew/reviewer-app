@@ -74,6 +74,7 @@ input[type="radio"] {
 #myText {
     background-color: #EBD6FB;
     border: #DC8BE0 2px solid;
+    font-size: 10px;
 }
 
 ::selection {
