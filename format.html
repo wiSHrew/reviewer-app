@@ -33,40 +33,21 @@
             <h5 class="cute-no-hover">Made with ❤ by Christian Jerome V. Desear</h5>
             <script>
                 document.getElementById("myText").value = 
-`You are going to format the contents of a text file into a specific question-and-answer style. Follow these instructions exactly:
-
-Format every question in the file like the example below.
-
-Include only questions, choices, and the correct answer. Remove everything else (notes, citations, page numbers, explanations, or any text not directly part of the question).
-
-If a question does not indicate the correct answer, research and provide the correct answer, ensuring it is accurate.
-
-Format all question numbers sequentially. If the file has numbers that are not sequential, renumber them correctly starting from 1.
-
-Choices should be formatted with a dash, the letter, a period, a space, and the choice text exactly like the example.
-
-The answer should be formatted with the letter, a period, a space, and the answer text exactly like the example.
-
-Do not include any extra text, headings, or notes. Only questions formatted in this style should be output.
-
-Example Output:
+`format the contents of the file exactly like the example.
+Do not include anything else in the output.
+If there is no idicated answer, search for the answer and make sure it's correct.
+Remove anything not related to the questions like "[cite 109]" or any other that doesn't add context to the question.
+Make sure to go through the entire text and format all the questions.
+Example:
 ---
-question: 1. Nurse Bini needs to have a fundamental understanding of _______ to be effective in her caregiving role to various types of clients in the community.
+question: 1. Nurse Bini needs to have a fundamental understanding of _______to be effective in her caregiving role to various types of clients in the community.
 choices: -A. statistics -B. research -C. nursing process -D. nursing theories
 answer: C. nursing process
 ---
 question: 2. Nurse Bini should be aware that the PRIMARY goal of CHN is to emphasize the essence of ______ in her role as a planner/programmer in the community.
 choices: -A. optimum health and wellness. -B. restoration of full function -C. rehabilitative part of care -D. Curative aspect of care
 answer: A. optimum health and wellness.
----
-
-Important Notes:
-
-Make sure all questions in the file are processed.
-
-Renumber questions sequentially if needed.
-
-Only output formatted questions. Nothing else.`;
+---`;
                 function copyText() {
                     const textarea = document.getElementById("myText");
                     textarea.select();
