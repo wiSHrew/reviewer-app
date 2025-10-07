@@ -1,1 +1,15 @@
-avoid putting "A.", "B.", "C.", "D." in the question because i am using those exact strings to differentiate the choices from questions
+format the contents of the file exactly like the example.
+Do not include anything else in the output.
+If there is no idicated answer, search for the answer and make sure it's correct.
+Remove anything not related to the questions like "[cite 109]" or any other that doesn't add context to the question.
+
+Example:
+---
+question: 1. Nurse Bini needs to have a fundamental understanding of _______to be effective in her caregiving role to various types of clients in the community.
+choices: -A. statistics -B. research -C. nursing process -D. nursing theories
+answer: C. nursing process
+---
+question: 2. Nurse Bini should be aware that the PRIMARY goal of CHN is to emphasize the essence of ______ in her role as a planner/programmer in the community.
+choices: -A. optimum health and wellness. -B. restoration of full function -C. rehabilitative part of care -D. Curative aspect of care
+answer: A. optimum health and wellness.
+---

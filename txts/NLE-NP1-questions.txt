@@ -1,0 +1,399 @@
+﻿question: 1. While caring for an 8-year-old child with a broken wrist, the nurse notices red, raised streaks on the child’s back. The child’s father enters the room and the child becomes quiet and distant, leaning away from the father as he approaches. What is the best nursing action?
+choices: -A. Chart the child was probably beaten by the father -B. Notify the supervisor to report possible child abuse -C. Disregard suspicions and care for the immediate needs of the child -D. No action is required; there is no actual proof of abuse to the child
+answer: B. Notify the supervisor to report possible child abuse
+---
+question: 2. A nurse manager has been notified to obtain a bed for a client. Of the following clients, which one would the nurse anticipate being able to discharge?
+choices: -A. A client who had myocardial infarction 2 days ago. His vital signs are: BP 150/94 mmHg, pulse 84 beats/min and irregular, respiration 28 breaths/min, minimal chest pain -B. A client who underwent an abdominal aneurysm resection 3 days ago. His vital signs are BP 130/88 mmHg, pulse 88 beats/min, respiration 22 breaths/min, and oral temperature 101º F. He is beginning oral intake without problems -C. A client who has a subdural hematoma. He is lethargic; pulse is 60 beats/min, respiration is 28 breaths/min, temperature is 99º F -D. A client who had abdominal surgery for a bowel obstruction 4 days ago. He has bowel sounds, is taking fluids orally, has an abdominal Penrose drain, and is continuing to experience abdominal pain.
+answer: D. A client who had abdominal surgery for a bowel obstruction 4 days ago.
+---
+question: 3. Delegation is the process of transferring work to subordinates. A nurse-manager can appropriately delegate which task?
+choices: -A. Scheduling staff assignments for the next month -B. Terminating a nursing assistant for insubordination -C. Deciding on salary increases for licensed practical nurses after they complete orientation -D. Telling a staff nurse to initiate disciplinary action aginst one of her peers
+answer: A. Scheduling staff assignments for the next month
+---
+question: 4. The nurse is planning assignments. Which task can be safely delegated to a nursing assistant?
+choices: -A. Obtain a stool specimen from a client with diarrhea -B. Assist client with a new colostomy in practicing his first colostomy irrigation -C. Evaluate the voiding pattern for a client who had a urinary retention catheter removed -D. Obtain a dietary history from a client with peptic ulcer disease.
+answer: A. Obtain a stool specimen from a client with diarrhea
+---
+question: 5. A staff nurse on a busy pediatric unit is an excellent role model for her colleagues. She encourages them to participate in the unit’s decision-making process and helps them improve their clinical skills. This nurse is functioning effectively in which role?
+choices: -A. Manager -B. Autocrat -C. Leader -D. Authority
+answer: C. Leader
+---
+question: 6. A nurse-manager on an oncology unit has been informed that she must determine which nursing care delivery system is the best for efficient client care, client satisfaction, and cost reduction. Knowing that 2 or 3 registered nurses, 4 licensed practical nurses, and 5 nursing assistants are generally on duty on each shift and that the clients can be grouped fairly easily by geographic location and client care needs, the nurse-manager and her staff appropriately decide to implement which nursing care delivery system?
+choices: -A. Functional nursing -B. Case management -C. Team Nursing -D. Primary Nursing
+answer: C. Team Nursing
+---
+question: 7. The charge nurse is planning assignments for the nursing staff. One of the staff nurses is pregnant. Which client would not be appropriate to assign to this nurse?
+choices: -A. Child with brain tumor being treated with radiation -B. Infant with respiratory syncytial virus receiving ribavirin -C. Toddler who is HIV+ and has an opportunistic respiratory tract infection -D. Child with leukemia who is receiving Oncovin (Vincristine) and Zyloprim (allopurinol)
+answer: B. Infant with respiratory syncytial virus receiving ribavirin
+---
+question: 8. A nurse-manager appropriately behaves as an autocrat in which situation?
+choices: -A. Planning vacation time for staff -B. Directing staff activities if a client has a cardiac arrest -C. Evaluating a new medication administration process -D. Identifying the strengths and weaknesses of a client education video
+answer: B. Directing staff activities if a client has a cardiac arrest
+---
+question: 9. There are phases in the change process to be considered, the first one should be:
+choices: -A. Refreezing -B. Unfreezing -C. Changing -D. Resisting
+answer: B. Unfreezing
+---
+question: 10. Form of communication that travels from staff and lower middle level management personnel and continues up the organizational hierarchy is:
+choices: -A. Downward -B. Upward -C. Matrix -D. Grapevine
+answer: B. Upward
+---
+question: 11. What is a key component in a quality assurance program?
+choices: -A. Patient satisfaction questionnaire -B. Determination of criteria to meet standards -C. Case management for continuity of care -D. An acuity system for client classification
+answer: B. Determination of criteria to meet standards
+---
+question: 12. Which of the following tools can be most helpful in the evaluation of staff performance?
+choices: -A. Performance assessment -B. Performance standard -C. Performance audit -D. Performance appraisal
+answer: D. Performance appraisal
+---
+question: 13. A storm has prevented most of the staff members from getting to work on a busy medical-surgical unit. One registered nurse, 2 licensed practical nurses, and 3 nursing assistants have been able to work. The nurse-manager must decide which nursing care delivery system should be implemented for the best possible client care during this staffing crisis. The nurse-manager directs the staff to implement which delivery system?
+choices: -A. Team nursing -B. Primary nursing -C. Functional nursing -D. Case management
+answer: C. Functional nursing
+---
+question: 14. The nurse-manager of a 20-bed coronary care unit isn’t on duty when a staff nurse makes a serious medication error. The client, who received an overdose of medication, nearly dies. Which statement accurately reflects the accountability of the nurse-manager?
+choices: -A. The nursing supervisor on duty will call the nurse-manager at home and apprise her of the problem -B. Because the nurse-manager is off duty, she isn’t accountable for incidents that occur in her absence. Therefore, the nurse manager won’t be notified -C. The nurse-manager will be informed of the incident when returning to work on Monday because the nurse-manager was officially off duty when the incident took place -D. Although the nurse-manager is off duty, the nursing supervisor believes that the manager has no responsibility for what happened during the manager’s absence
+answer: A. The nursing supervisor on duty will call the nurse-manager at home and apprise her of the problem
+---
+question: 15. The selection of a nursing care delivery system is critical to the success of a nursing area. Which factor is essential in the evaluation of a nursing care delivery system?
+choices: -A. Determining how planned absences, such as vacation time, will be scheduled so that all staff are treated fairly -B. Identifying who will be responsible for making client care decisions -C. Deciding what type of dress code will be implemented -D. Identifying salary ranges for various types of staff
+answer: B. Identifying who will be responsible for making client care decisions
+---
+question: 16. The nurse –manager in the office of a group of surgeons has received complaints from discharged clients about inadequate instructions for performing home care. Knowing the importance of good, timely client education, the nurse should take which steps?
+choices: -A. Contact the nurses who work in the facility and tell them that client education should be implemented as soon as the clients are admitted to either the hospital or the outpatient surgical center -B. Review and revise the way client education is conducted in the surgeons’ office -C. Because no serious damage was done to any of the clients, the nurse-manager can safely ignore their complaints -D. Work with the surgeons’ and nursing staff in the hospital and outpatient surgical center to evaluate current client education practices and revise as needed
+answer: D. Work with the surgeons’ and nursing staff in the hospital and outpatient surgical center to evaluate current client education practices and revise as needed
+---
+question: 17. When the team approach is utilized in a management situation the subordinates should be aware that they should receive order from only one person. This principle is:
+choices: -A. Unity of command -B. Chain of command -C. Centralization -D. Channel of communication
+answer: A. Unity of command
+---
+question: 18. Which of the following would the nurse identify as an indication that the client understands the informed consent document?
+choices: -A. The client states that the physician has explained the procedure to him -B. The nurse finds the informed consent form already signed -C. The client can give return verbal explanation of the informed consent document -D. The client states that his wife read it and said it was okay
+answer: C. The client can give return verbal explanation of the informed consent document
+---
+question: 19. The nurse enters data on a chart and discovers she has written on the wrong chart. How is this error best corrected?
+choices: -A. White out the wrong information and write over it -B. Recopy the page with error so chart will be neat -C. Draw a straight line through the error, initial and date -D. Obliterate the error so it will not be confusing
+answer: C. Draw a straight line through the error, initial and date
+---
+question: 20. Performance improvement is an important component of continuous quality improvement. Which action should an effective nurse- manager take when conducting performance evaluations?
+choices: -A. Conduct performance evaluation in a group setting so input from peers and subordinates is considered when evaluating a staff member’s effectiveness. -B. Provide feedback on strengths as well as areas for improvement and clarify what the staff member is expected to accomplish before the next performance evaluation -C. Document areas for improvement in writing. Areas of strength don’t need to be documented because these areas are complementary and don’t describe actions the staff member must take to improve -D. Delegate responsibility for conducting performance evaluations to primary nurses whenever possible to help them grow professionally.
+answer: B. Provide feedback on strengths as well as areas for improvement and clarify what the staff member is expected to accomplish before the next performance evaluation
+---
+question: 21. The correct sequence of steps in the research process is: 1. Selection and development of the tools/ techniques for collecting data 2. Formulation of hypothesis 3. Determining the research design or the approach suitable for the study 4. Formulation of the problem
+choices: -A. 1, 2, 3, 4 -B. 4, 1, 2, 3 -C. 4, 2, 3, 1 -D. 1, 3, 4, 2
+answer: C. 4, 2, 3, 1
+---
+question: 22. When selecting your study sample. Which of the following activities should you do first?
+choices: -A. specify the sampling frame -B. identify the target population -C. specify the criteria for selection of subjects -D. identify the available population
+answer: B. identify the target population
+---
+question: 23. You decided to use convenience sampling. This is an example of convenience sampling:
+choices: -A. selection with consent -B. simple selection -C. availability of subjects -D. first come, first selected basis
+answer: C. availability of subjects
+---
+question: 24. You decided to use Prospective Longitudinal Sampling. Which of the following is an example of this?
+choices: -A. Growth of newborn 2 years ago to the present -B. Mastectomy patients are studied from operation to 3 years after discharge -C. Asking high school students their choices of career after graduation -D. Asking mothers their past experiences in giving birth
+answer: B. Mastectomy patients are studied from operation to 3 years after discharge
+---
+question: 25. A type of sampling that starts with one participant or member of the population and uses that member’s contacts to identify other potential participants for the study is:
+choices: -A. cluster sampling -B. convenience sampling -C. snowball sampling -D. purposive sampling
+answer: C. snowball sampling
+---
+question: 26. A patient refuses to take his antibiotics because he believes that it’s not giving him any good. Which of the following actions of the nurse is MOST appropriate?
+choices: -A. Explains to the patient that he needs the medications for his recovery and clarify any misconceptions -B. Writes in the chart that the patient refuses to take his medication -C. Refer to the attending physician about his refusal -D. Ask the patient to sign the waiver of responsibility
+answer: A. Explains to the patient that he needs the medications for his recovery and clarify any misconceptions
+---
+question: 27. When conflict arises regarding management of patient care, which of the following should be upheld?
+choices: -A. Physician’s orders -B. Preference of the family -C. Patient’s rights -D. Institutional Policy
+answer: C. Patient’s rights
+---
+question: 28. The most common major risk to safety of unconscious patient in the hospital is:
+choices: -A. carbon dioxide poisoning -B. any poisoning -C. falls -D. insect bites
+answer: C. falls
+---
+question: 29. Devolution of the Health department of care is implemented in order to:
+choices: -A. bring services near to the people -B. empower local politician -C. become self reliant -D. stop funding for national funds
+answer: A. bring services near to the people
+---
+question: 30. Which of the following is your vital role in cancer care?
+choices: -A. arrange for spiritual consultation -B. allow patient to get angry -C. maintain dignity of patient -D. control shame and guilt
+answer: C. maintain dignity of patient
+---
+question: 31. If the died without a will, the succession is called:
+choices: -A. holographic will -B. testate -C. heir -D. intestate
+answer: D. intestate
+---
+question: 32. This is treated as the most important attribute of a true Professional Nurse
+choices: -A. competence and independent approach -B. professional accountability -C. self autonomy -D. responsibility
+answer: A. competence and independent approach
+---
+question: 33. The board may allow licensed nurses from foreign countries or state to practice nursing in the Philippines through special and temporary permit if they belong to the following categories EXCEPT:
+choices: -A. internationally-well specialist or outstanding experts in any branch of specialty of nursing -B. nurses on medical mission whose services shall be free in a particular hospital, center or clinic -C. employed by schools, colleges of nursing as exchange professors in a branch or specialty of nursing -D. Balikbayan nurses who wants to practice nursing in order to earn credits for continuing professional education
+answer: B. nurses on medical mission whose services shall be free in a particular hospital, center or clinic
+---
+question: 34. The following are grounds for the suspension and revocation of certificates of registration/professional license or special/temporary permit; which one is NOT included?
+choices: -A. use of fictitious date in obtaining a professional license -B. Commission of a serious negligence -C. Unprofessional or unethical conduct -D. Not a member of the accredited professional organization
+answer: D. Not a member of the accredited professional organization
+---
+question: 35. Nursing is considered as rewarding and fulfilling career. Nursing is best described as a profession that;
+choices: -A. concerned with patients -B. concerned with proper organization of the ward -C. assist the people towards self care -D. helps to prevent disease and promote wellness
+answer: D. helps to prevent disease and promote wellness
+---
+question: 36. Which of the following are grounds for removal of suspension of the Board Members? 1. Unprofessional, immoral or dishonorable conduct 2. Continued neglect of duty 3. Commission or toleration of irregularities in the licensure examination 4. Gross incompetence or serious ignorance
+choices: -A. 1,2,4 -B. 2,3,4 -C. 1,3,4 -D. 1,2,3
+answer: D. 1,2,3
+---
+question: 37. The Board has the mandate to determine whether an applicant for the licensure examination is qualified to take the said examination. Who among the following is NOT qualified under the provision of the law?
+choices: -A. Nurse who finished BSN then proceeded to pursue a medical degree -B. Medical degree graduate who pursued nursing course for one year. -C. Midwife graduate who took up nursing following the AHSE program -D. BSN graduate of a ladderized BSN curriculum
+answer: B. Medical degree graduate who pursued nursing course for one year.
+---
+question: 38. Which TWO of the following courses of action would an examinee that got a general average of 76.8% but a rating of 59% in Curative-A need a take? 1 Repeat the whole examination all over again 2 Take only the subject where she got a rating below 60% 3 Enroll in a refresher course in the subject that she failed 4 Obtain a score of 75% in the repeated subjects
+choices: -A. 1&2 -B. 2&3 -C. 1&3 -D. 2&4
+answer: D. 2&4
+---
+question: 39. Which of the following considered quasi-judicial powers of the Board?
+choices: -A. Conduct licensure examination -B. Recognize nursing specialty organization -C. Conduct hearing and investigations to resolve complaints against nurses -D. Promulgate a Code of Ethics for nurses
+answer: C. Conduct hearing and investigations to resolve complaints against nurses
+---
+question: 40. Some functions of the board are considered to be quasi-legislative. Which of the following functions belong to this category?
+choices: -A. Ensure quality nursing education by examining prescribed facilities of colleges of nursing -B. Monitor and enforce quality standards of nursing education in the Philippines -C. Prescribe, adopt and promulgate guidelines, regulations, measures and decisions as maybe necessary for the improvement of the nursing practice. -D. Issue, suspend and revoke certificates of registration for the practice of nursing
+answer: C. Prescribe, adopt and promulgate guidelines, regulations, measures and decisions as maybe necessary for the improvement of the nursing practice.
+---
+question: 41. Which of the following areas should be represented by the members of the Board? 1. Nursing education 2. Nursing practice 3. Community health Nursing 4. Maternal & Child health Nursing
+choices: -A. 1,2,3 -B. 2,3,4 -C. 1,3,4 -D. 1,2,3,4
+answer: A. 1,2,3
+---
+question: 42. The following are qualifications of the Chairperson of the Board. Which one is NOT included?
+choices: -A. A natural born citizen and resident of the Philippines -B. Member of good standing of the Philippine Nurses Ass. -C. Be a registered nurse and holder of a Master’s degree in Hospital Administration -D. Have at least ten years of continuous practice of the profession prior to appointment
+answer: C. Be a registered nurse and holder of a Master’s degree in Hospital Administration
+---
+question: 43. Some patients have different health beliefs and practices, and Nesty is aware how these can be considered in the plan of care she and her team will prepare for the patients. Which theory is appropriate for these groups of patients?
+choices: -A. Transcultural theory -B. Adaptation Theory -C. Health System Theory -D. Self care Theory
+answer: A. Transcultural theory
+---
+question: 44. The PNA after having deliberated whom to nominate to PRC must have at least how many candidates for the two positions?
+choices: -A. two -B. four -C. Six -D. Eight
+answer: C. Six
+---
+question: 45. After 2 years in hospital nursing, Nesty decided to change career military nursing. She knows that the chief nurse in the military hospital is qualified if she has completed:
+choices: -A. Master’s degree in nursing -B. General Staff Course -C. At least 9 units in management and administration courses at the graduate level -D. Masters Degree in Nursing and General Staff Course
+answer: D. Masters Degree in Nursing and General Staff Course
+---
+question: 46. Nesty should be working in collaboration with the members of the health team. Collaboration means:
+choices: -A. Cooperation -B. Unity -C. Concerted efforts of individuals and groups to meet the goal -D. Loyalty to the health team
+answer: C. Concerted efforts of individuals and groups to meet the goal
+---
+question: 47. Which of the following pursues continuing professional education in emergency care order to be certified as a nurse specialist in critical care. Which of the following agencies are mandated by law to be formulated and develop the comprehensive specialty program?
+choices: -A. 1,2,3 -B. 1,2,4 -C. 1,3,4 -D. 1,2,3,4
+answer: D. 1,2,3,4
+---
+question: 48. Ms. Baluyot knows that the fundamental responsibility of a nurse is in fourfold. Which is the most basic of these responsibilities?
+choices: -A. Promote Health -B. Prevention of Illness -C. Restoration of Health -D. Alleviation of Suffering
+answer: A. Promote Health
+---
+question: 49. Which of the following demonstrates the responsibility towards her profession? 1. Participate in the development and implementation of standards of Nursing practice in her department. 2.Ensures that the core competencies of her staff are enhanced. 3. Participates in the activities of the local chapter of the PNA and ANSAP 4. Lobbies for the implementation of the incentives and benefit system for Nurses and dependents as stipulated in the law.
+choices: -A. 1,2,3 -B. 2,3,4 -C. 3,4 -D. 1,2,3,4
+answer: D. 1,2,3,4
+---
+question: 50. When Ms. Baluyot is certain that Marie Flor, a new Nurse, is not competent in taking care of critically ill patient , she would not be ethical if she:
+choices: -A. Discusses this concern with Marie Flor herself -B. Assigns another Nurse to the patient -C. Explains to Marie Flor the nature of the condition of the patient and the need for a competent Nurse to handle the increased demand for care -D. Discusses to the other Nurse that Marie Flor is new and lacking in skills for the needs of the patient.
+answer: D. Discusses to the other Nurse that Marie Flor is new and lacking in skills for the needs of the patient.
+---
+question: 51. The nurse teaches a client how to prepare for a barium enema. Which statement by the client indicates a correct understanding of the teaching?
+choices: -A. “I’ll cleanse my bowel with laxatives and enemas before the test.” -B. “I’ll receive a muscle relaxant during the test.” -C. “I’ll drink a contrast medium during the test.” -D. “I’ll stop eating red meat 3 days before the test.”
+answer: A. “I’ll cleanse my bowel with laxatives and enemas before the test.”
+---
+question: 52. The infusion site of your client is edematous and reddened. Your client is complaining of pain along the vein. What should you do FIRST?
+choices: -A. Check the IV solution and refer immediately -B. Stop infusion and reinsert the IV immediately -C. Place a warm compress over the IV site -D. Slow down the IV infusion
+answer: B. Stop infusion and reinsert the IV immediately
+---
+question: 53. The nurse is performing a wound irrigation and dressing change. Which action, if taken by the nurse, would be a break in technique?
+choices: -A. Consistently facing the sterile field -B. Washing hands before opening the sterile set -C. Opening the bottle of irrigating solution and pouring directly into a container on the sterile field -D. Opening the sterile set so that the initial flap is opened away from the nurse
+answer: C. Opening the bottle of irrigating solution and pouring directly into a container on the sterile field
+---
+question: 54. The nurse is caring for a client who underwent a tracheostomy 3 days ago. The nurse notes that the inner cannula of the tracheostomy is completely blocked with a thick secretion. What is the best action for the nurse to take?
+choices: -A. Perform tracheostomy care and replace the inner cannula -B. Inform the attending physician and document the findings -C. Suction the tracheostomy with a nasopharyngeal suction catheter -D. Remove the inner cannula, clean it, and reinsert it immediately
+answer: D. Remove the inner cannula, clean it, and reinsert it immediately
+---
+question: 55. The nurse is preparing to administer an intramuscular injection to an infant. Which site is the most appropriate for the nurse to select?
+choices: -A. Deltoid -B. Rectus femoris -C. Dorsogluteal -D. Vastus Lateralis
+answer: D. Vastus Lateralis
+---
+question: 56. The nurse is caring for a client who is terminally ill. The client is receiving morphine sulfate for pain relief. The nurse has assessed that the client is becoming unresponsive and is having only 4 breaths/min. The client’s daughter is begging the nurse not to stop the morphine because the client is in great pain. What is the best action for the nurse to take?
+choices: -A. Discontinue the morphine and call the attending physician -B. Slow the rate of the morphine and call the attending physician -C. Continue the morphine as the daughter requested and call the attending physician -D. Assess the client’s pain and continue to administer the morphine for pain
+answer: B. Slow the rate of the morphine and call the attending physician
+---
+question: 57. The nurse is caring for a client who has a head injury and requires frequent suctioning. The nurse prepares to suction the client through a nasotracheal tube. The nurse lubricates the suction catheter with a water-soluble lubricant. The nurse inserts the suction catheter until he meets resistance. What should the nurse do next?
+choices: -A. Pull back on the catheter slightly, apply suction, and slowly withdraw it -B. Withdraw the catheter completely and ask the client to cough -C. Withdraw the catheter slightly and ask the client to take deep breaths -D. Apply suction, rotate the catheter as it is withdrawn, and remove it immediately
+answer: A. Pull back on the catheter slightly, apply suction, and slowly withdraw it
+---
+question: 58. The nurse is caring for a client with diabetes who is scheduled to receive a regular insulin and NPH insulin injection. Which statement accurately describes the proper technique for mixing insulin?
+choices: -A. Air should first be instilled into the regular insulin, and then the syringe should be filled with the regular insulin -B. Air should first be instilled into the regular insulin, and then the syringe should be filled with the NPH insulin -C. The regular insulin should be drawn up before the NPH insulin -D. The NPH insulin should be drawn up before the regular insulin
+answer: C. The regular insulin should be drawn up before the NPH insulin
+---
+question: 59. The nurse is caring for a client who had a cerebrovascular accident (CVA) 5 days ago and is still unable to communicate. The nurse can only get a “yes” or “no” response from the client. The client is becoming increasingly frustrated. Which action is best for the nurse to take?
+choices: -A. Tell the client to calm down -B. Speak in a loud, demanding tone to get the client’s attention -C. Explain to the client’s family that they must be patient -D. Develop a nonverbal system of communication with the client
+answer: D. Develop a nonverbal system of communication with the client
+---
+question: 60. The nurse has just inserted a nasogastric tube into a client who had a bowel obstruction and has determined that the tube is placed correctly. The physician asks the nurse to irrigate the nasogastric tube with normal saline to keep the tube patent. What is the best action for the nurse to take?
+choices: -A. Flush the tube with 30 mL of normal saline -B. Flush the tube with 15 mL of normal saline -C. Flush the tube with 50 mL of normal saline -D. Flush the tube with 100 mL of normal saline
+answer: B. Flush the tube with 15 mL of normal saline
+---
+question: 61. The nurse is planning care for an 8-year-old child who has a fracture in the lower arm. The child is unable to speak English and is obviously upset. The child is with a family member who speaks English well. What is the best action for the nurse to take?
+choices: -A. Call for an interpreter to assist with the history and physical examination -B. Ask the family member to act as an interpreter -C. Wait for the father to return; he speaks English -D. Talk in a loud voice to the child so he can understand
+answer: A. Call for an interpreter to assist with the history and physical examination
+---
+question: 62. The nurse is planning care for a client who will undergo a surgical procedure that requires the client to sign a consent form. The client is not married, is 17 years old, and is pregnant. Who should sign the consent form?
+choices: -A. The 17-year-old client -B. The client’s parents -C. The client’s husband or fiancé -D. The client and her parents
+answer: A. The 17-year-old client
+---
+question: 63. The nurse is caring for a client who has undergone a cholecystectomy. The nurse determines that the client is not in pain, is alert, and is willing to participate in self-care. Which action is the most appropriate for the nurse to take?
+choices: -A. Encourage the client to turn, cough, and deep-breathe every 4 hours -B. Encourage the client to turn, cough, and deep-breathe every 1 to 2 hours -C. Encourage the client to turn, cough, and deep-breathe only at mealtime -D. Medicate the client for pain and encourage her to do breathing exercises
+answer: B. Encourage the client to turn, cough, and deep-breathe every 1 to 2 hours
+---
+question: 64. The nurse is preparing to insert a urinary retention catheter into a female client. The nurse explains to the client that the reason she must insert the catheter is to obtain a sterile urine specimen. Which action is best for the nurse to take?
+choices: -A. Obtain the sterile urine specimen before inserting the urinary retention catheter -B. The nurse should explain to the client that the catheter is a safety measure to protect her from urinary incontinence -C. The nurse must explain the correct reason for inserting the catheter to the client -D. Tell the client that she must receive permission from the physician before inserting the catheter
+answer: C. The nurse must explain the correct reason for inserting the catheter to the client
+---
+question: 65. The nurse is caring for a client who is receiving intravenous (IV) fluids. The IV fluid is infusing at 125 mL/hour. The physician asks the nurse to decrease the rate to 80 mL/hour. What is the best action for the nurse to take?
+choices: -A. Place a piece of adhesive tape over the IV drip chamber to prevent the client from changing the rate -B. Change the drip rate using the roller clamp and place a piece of adhesive tape over the roller clamp -C. Change the IV rate and monitor the client for 24 hours -D. Change the IV rate and monitor the client frequently
+answer: D. Change the IV rate and monitor the client frequently
+---
+question: 66. The nurse is assessing a client who is receiving total parenteral nutrition (TPN). The nurse discovers that the TPN infusion is behind schedule. The physician has ordered TPN to be administered at a constant rate. What is the best action for the nurse to take?
+choices: -A. Increase the rate of the TPN to compensate for the time loss -B. Obtain an order from the physician to increase the rate -C. Adjust the rate to the prescribed flow rate -D. Decrease the rate of the TPN and monitor the client’s glucose level
+answer: C. Adjust the rate to the prescribed flow rate
+---
+question: 67. The nurse is caring for a client who is receiving a continuous epidural infusion of pain medication. The nurse should assess for which serious side effect of an epidural infusion?
+choices: -A. Headache -B. Respiratory depression -C. Urinary retention -D. Leg weakness
+answer: B. Respiratory depression
+---
+question: 68. The nurse is caring for a client who had a hip replacement 3 days ago. Which action is best for the nurse to take when turning the client?
+choices: -A. Turn the client on the affected side after asking him to assist with the turn -B. Turn the client on the unaffected side after asking him to assist with the turn -C. Turn the client on the affected side after placing a pillow between the client’s legs -D. Turn the client on the unaffected side after placing a pillow between the client’s legs
+answer: D. Turn the client on the unaffected side after placing a pillow between the client’s legs
+---
+question: 69. The nurse is caring for a client who is in the third trimester of pregnancy. The client has experienced some bleeding and has been placed on strict bed rest. The client states that she is frustrated and bored. What is the most appropriate action for the nurse to take?
+choices: -A. Encourage the client to sit in a chair for 1 hour to read a book -B. Give the client a journal to record her feelings -C. Encourage the client to go for a short walk -D. Encourage the client to ambulate to the bathroom
+answer: B. Give the client a journal to record her feelings
+---
+question: 70. The nurse is caring for a client who is admitted to the hospital with a fever. The client is experiencing chills and sweating. Which intervention is best for the nurse to implement?
+choices: -A. Sponge the client with tepid water -B. Encourage the client to consume 2 L of fluid in 8 hours -C. Obtain blood cultures before administering antibiotics -D. Administer aspirin as ordered
+answer: C. Obtain blood cultures before administering antibiotics
+---
+question: 71. The nurse is caring for a client who is unconscious. Which nursing intervention is most important for the nurse to implement?
+choices: -A. Place the client in the left-side lying position -B. Assess the client’s pupils for reaction to light -C. Perform range-of-motion exercises every 4 hours -D. Assess the client’s airway frequently
+answer: D. Assess the client’s airway frequently
+---
+question: 72. The nurse is planning care for a client who is admitted to the hospital with a history of alcohol abuse. The client is experiencing withdrawal and is shaking and agitated. Which nursing intervention is best for the nurse to implement?
+choices: -A. Provide the client with high-carbohydrate meals -B. Speak in a loud, demanding voice to get the client’s attention -C. Place the client in a quiet, dark room -D. Encourage the client to watch TV and listen to the radio
+answer: C. Place the client in a quiet, dark room
+---
+question: 73. The nurse is caring for a client who has a nasogastric tube in place. The client is receiving continuous enteral feedings. Which nursing intervention is most important for the nurse to implement?
+choices: -A. Check the amount of gastric residual every 4 to 6 hours -B. Flush the nasogastric tube every 4 hours -C. Aspirate the gastric residual and discard the contents -D. Place the client in a supine position during the feedings
+answer: A. Check the amount of gastric residual every 4 to 6 hours
+---
+question: 74. The nurse is administering medications. Which statement accurately describes the proper technique for administering an oral medication?
+choices: -A. When administering the medication, the nurse should place the cup of medication in the client’s hands and assist the client to the semi-Fowler position -B. The nurse should break the tablet in half if the client is unable to swallow the whole tablet -C. If the client refuses the medication, the nurse should record the reason for the refusal in the nurse’s notes and inform the physician -D. If a liquid medication is to be administered, the nurse should pour the medication while holding the measuring cup at eye level and measure the medication at the top of the meniscus
+answer: C. If the client refuses the medication, the nurse should record the reason for the refusal in the nurse’s notes and inform the physician
+---
+question: 75. The nurse is caring for a client who has a chest tube. The nurse discovers that the chest tube has been accidentally disconnected from the chest drainage system. What is the best action for the nurse to take?
+choices: -A. Place the end of the chest tube into a bottle of sterile water -B. Clamp the chest tube -C. Place the end of the chest tube in a cup of normal saline -D. Call the physician immediately
+answer: A. Place the end of the chest tube into a bottle of sterile water
+---
+question: 76. The nurse is preparing to administer an eye drop to a client. Which action is the most appropriate for the nurse to take?
+choices: -A. Instruct the client to close the eyes and rub gently -B. Administer the eye drop in the inner canthus -C. Instruct the client to gaze upward -D. Ask the client to blink several times
+answer: C. Instruct the client to gaze upward
+---
+question: 77. The nurse is caring for a client who is terminally ill. The client tells the nurse that she is willing to stop taking the medications because she wants to die. What is the best action for the nurse to take?
+choices: -A. Inform the client that she is not allowed to stop taking the medications -B. Call the client’s family and inform them of the client’s decision -C. Ask the client to sign a waiver of responsibility and notify the physician -D. Inform the client that she must receive permission from the physician before stopping the medications
+answer: C. Ask the client to sign a waiver of responsibility and notify the physician
+---
+question: 78. The nurse is preparing to discharge a client who is severely depressed. Which action is the most appropriate for the nurse to take?
+choices: -A. Assess for a suicide plan -B. Ask the client about his support system -C. Encourage the client to participate in activities -D. Ask the client if he has received his medications
+answer: A. Assess for a suicide plan
+---
+question: 79. The nurse is caring for a client with a history of seizures. Which action is the most important for the nurse to implement?
+choices: -A. Instruct the client to ambulate with assistance -B. Place a padded tongue blade at the bedside -C. Lower the height of the bed and pad the side rails -D. Obtain a blood sample to determine the anticonvulsant medication level
+answer: C. Lower the height of the bed and pad the side rails
+---
+question: 80. The nurse is administering a purified protein derivative (PPD) to a client. Which action is the most appropriate for the nurse to take?
+choices: -A. Cleanse the area with alcohol and inject the PPD at a 90-degree angle -B. Cleanse the area with alcohol and inject the PPD at a 45-degree angle -C. Cleanse the area with alcohol and inject the PPD at a 15-degree angle -D. Cleanse the area with alcohol and inject the PPD at a 5-degree angle
+answer: C. Cleanse the area with alcohol and inject the PPD at a 15-degree angle
+---
+question: 81. Nurse Bini needs to have a fundamental understanding of _______to be effective in her caregiving role to various types of clients in the community.
+choices: -A. statistics -B. research -C. nursing process -D. nursing theories
+answer: C. nursing process
+---
+question: 82. Nurse Bini should be aware that the PRIMARY goal of CHN is to emphasize the essence of ______ in her role as a planner/programmer in the community.
+choices: -A. optimum health and wellness. -B. restoration of full function -C. rehabilitative part of care -D. Curative aspect of care
+answer: A. optimum health and wellness.
+---
+question: 83. The nurse is aware that the goal of CHN is realized through the delivery of basic health services and not through hospital-based or medically-oriented care. In which level should these services be made available?
+choices: -A. Tertiary level -B. Secondary level -C. Primary level -D. All levels
+answer: C. Primary level
+---
+question: 84. Nurse Bini knows that to be effective in her role as a health educator, she must be aware of the essential health teachings and topics that should be addressed to the clients. These are: 1. Environmental sanitation 2. Maternal and Child Health 3. Nutrition 4. Immunization 5. Family Planning
+choices: -A. 1, 2, 3, 4 -B. 2, 3, 4, 5 -C. 1, 3, 4, 5 -D. 1, 2, 3, 4, 5
+answer: D. 1, 2, 3, 4, 5
+---
+question: 85. In preparation for a teaching plan to a group of clients, Nurse Bini is doing her research on the teaching –learning theories. She understands that the learning process begins from the simplest to the more complex, abstract ideas. This is based on which learning principle?
+choices: -A. Principle of readiness -B. Principle of association -C. Principle of use -D. Principle of simplification
+answer: D. Principle of simplification
+---
+question: 86. After several health teaching sessions, Nurse Bini realizes that the group of mothers are learning best when they are given the opportunity to participate in activities and in the problem solving process of their community. This is based on which principle of learning?
+choices: -A. Principle of use and disuse -B. Principle of effect -C. Principle of motivation -D. Principle of participation
+answer: D. Principle of participation
+---
+question: 87. Nurse Bini is now on the evaluation phase of the teaching process. Which question should she focus on?
+choices: -A. What is the scope of the teaching plan -B. How were the objectives met -C. How well did the clients learn -D. Were the teaching methods appropriate
+answer: C. How well did the clients learn
+---
+question: 88. In her role as an environmental manager, Nurse Bini should be aware of the proper disposal of infectious waste. The principle to be observed is:
+choices: -A. incineration -B. Sterilization -C. autoclaving -D. burial
+answer: A. incineration
+---
+question: 89. Which disease is considered as the leading cause of death in the Philippines?
+choices: -A. Pneumonia -B. Accidents -C. Diabetes Mellitus -D. Diseases of the Heart
+answer: D. Diseases of the Heart
+---
+question: 90. Which of the following is considered as the most common infectious disease today?
+choices: -A. Tuberculosis -B. Dengue Hemorrhagic Fever -C. Pneumonia -D. Influenza
+answer: A. Tuberculosis
+---
+question: 91. The primary purpose of doing a research is to:
+choices: -A. develop one’s self -B. gather information about a problem -C. develop one’s career -D. utilize the findings to improve nursing practice and client care
+answer: D. utilize the findings to improve nursing practice and client care
+---
+question: 92. The nurse decided to explore the relationship between the number of nurses and patient outcomes. Which of the following research studies is the most appropriate approach?
+choices: -A. Correlation -B. Descriptive -C. Exploratory -D. Historical
+answer: A. Correlation
+---
+question: 93. What type of research will be undertaken if the nurse will determine the effectiveness of teaching on patient self care?
+choices: -A. Basic Research -B. Applied Research -C. Historical Research -D. Ethnography
+answer: B. Applied Research
+---
+question: 94. A research problem that is too broad and cannot be answered through a single research study is:
+choices: -A. Is there a relationship between the number of nurses and patient outcome -B. What is the lived experience of nurses caring for terminally ill patients in a Hospice? -C. How to improve quality of nursing education? -D. What are the coping mechanisms of parents with autistic children?
+answer: C. How to improve quality of nursing education?
+---
+question: 95. A nurse wants to study the effects of music to patients undergoing chemotherapy. Which of the following is the dependent variable?
+choices: -A. Effects of Music -B. Music -C. Chemotherapy -D. Patients
+answer: A. Effects of Music
+---
+question: 96. What should be done to ensure confidentiality in a research study?
+choices: -A. Obtain an informed consent from the subjects -B. Subjects should be debriefed about the purpose of the study -C. The researcher should not divulge any information that could be linked to the subjects -D. The subjects should be given the right to refuse participation in the study
+answer: C. The researcher should not divulge any information that could be linked to the subjects
+---
+question: 97. An ethical consideration wherein the subjects have the right to withdraw from the study at any time without fear of retribution and without affecting their treatment or care is:
+choices: -A. self-determination -B. right to anonymity and confidentiality -C. right to fair treatment -D. right to protection from discomfort and harm
+answer: A. self-determination
+---
+question: 98. When the participants of the study are deceived by the researcher about the purpose of the study or in some way manipulate them, this is known as:
+choices: -A. informed consent -B. beneficence -C. covert data collection -D. non-maleficence
+answer: C. covert data collection
+---
+question: 99. The subjects of a research study are exposed to minimal risk when:
+choices: -A. the degree of risk is greater than those encountered in daily life -B. the risk of harm are not greater than those ordinarily encountered in daily life -C. the subject's exposure to injury may lead to physical or emotional harm -D. the subject's exposure to injury may lead to legal, financial and social harm
+answer: B. the risk of harm are not greater than those ordinarily encountered in daily life
+---
+question: 100. What is considered the most current priority for nursing research?
+choices: -A. Improvements in patient care and outcomes -B. Problems relating to nurse professional identity -C. Content of nursing curricula -D. Staffing and shortage problems
+answer: A. Improvements in patient care and outcomes

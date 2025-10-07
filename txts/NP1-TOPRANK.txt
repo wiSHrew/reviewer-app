@@ -1,0 +1,401 @@
+﻿---
+question: 1. It is the branch of philosophy concerned with the distinction between right and wrong based on a body of knowledge, not based only on opinions.
+choices: -A. Morality -B. Ethics -C. Virtues -D. Values
+answer: B. Ethics
+---
+question: 2. The Code of Ethics serves as a guide for one’s actions. It aims to improve one’s discretion. All but one of the following is embodied in the American Nurses Association Code of Ethics.
+choices: -A. The nurse’s primary commitment is to the client, whether an individual, family, group or community -B. The nurse promotes, advocates for, and strives to protect the health, safety, and rights of clients only under her direct care. -C. The nurse owes the same duties to self as to others, including the responsibility to preserve integrity and safety, to maintain competence, and to continue personal and professional growth -D. The profession of nursing, as represented by associations and their members, is responsible for articulating nursing values, for maintaining the integrity of the profession and its practice, and for shaping social policy.
+answer: B. The nurse promotes, advocates for, and strives to protect the health, safety, and rights of clients only under her direct care.
+---
+question: 3. Aside from direct client care, the nurse assumes several roles in and out the health care setting and they often carry out these roles concurrently rather than exclusively of one another. Which of the following roles encompasses the ability to influence others to accomplice a specific goal?
+choices: -A. Advocate -B. Leader -C. Communicator -D. Manager
+answer: B. Leader
+---
+question: 4. Nurses pursue further education and fulfills expanded career roles. The nurse-midwife may perform the following independently: 1. Prenatal Care 2. Postnatal Care 3. Manual evacuation of placenta 4. Manage deliveries in normal pregnancies 5. Pap Smears 6. Blood transfusion 7. Family planning 8. Clinical breast exam
+choices: -A. 1, 2, 3, 4, 7 -B. 1, 2, 4, 5, 6, 7 -C. 1, 2, 4, 5, 7, 8 -D. 1, 2, 4 and 7
+answer: C. 1, 2, 4, 5, 7, 8
+---
+question: 5. Nurses are governed by civil and criminal law in roles as providers of services, employees of institutions, and private citizens. A nurse who does not meet the standards of care may be held liable and may be subjected to civil cases. What is a civil law?
+choices: -A. Concerned with the enforcement of agreements among private individuals -B. Concerned with relationships among persons and the protection of a person’s rights -C. Concerned with relationships between individuals and government, and with acts that threaten society and its order -D. Civil wrong
+answer: B. Concerned with relationships among persons and the protection of a person’s rights
+---
+question: 6. The client needs to be a participant in decisions regarding health care. The following are guidelines in signing the informed consent. 1. A consent must be signed freely by the client without threat or pressure 2. Must be witnessed by anyone 3. If a client is declared mentally or emotionally incompetent, the next of kin, any guardian, or durable power of attorney has legal authority to give consent. 4. A client has the right to refuse information 5. The client has the right to waive the informed consent and undergo treatment
+choices: -A. 1, 2, 3, 4, 5 -B. 1, 3, 4 -C. 1, 3, 4, 5 -D. 1, 4, 5
+answer: C. 1, 3, 4, 5
+---
+question: 7. In signing consents, the client should be mentally and emotionally competent. Who among the following clients may sign the informed consent?
+choices: -A. Declared incompetent -B. Under the influence of absinthe -C. Diagnosed with dysthymia -D. Unconscious
+answer: C. Diagnosed with dysthymia
+---
+question: 8. The mother of the client asks who should sign the consent. Nurse Rudy’s response should be guided by which of the following principles?
+choices: -A. The consent should be signed by anyone of legal age (18 years old) -B. A minor may give legal consent, but consent must be obtained from a parent or the legal guardian -C. Parental or guardian consent should be obtained before treatment is initiated for minor -D. An emancipated minor is considered legally capable of signing an informed consent
+answer: D. An emancipated minor is considered legally capable of signing an informed consent
+---
+question: 9. All of the following is a violation and invasion of client privacy, except:
+choices: -A. Taking photographs of the client for medical purposes while she is in general anesthesia, and making sure to put a black bar over the eyes upon print out -B. Drawing out the curtains while performing a medical procedure. -C. Intrusion by the health care agency regarding the client’s affairs -D. Leaving a confused or agitated client sitting in the nursing unit hallway.
+answer: B. Drawing out the curtains while performing a medical procedure.
+---
+question: 10. The client asks if she needs a durable power of attorney. Upon assessment, Nurse Rudy concludes that the client has an incorrect perception of the topic. Nurse Theo corrects this by stating that a durable power of attorney:
+choices: -A. Is the client’s right to identify written directions about the care that they wish to receive -B. Lists the medical treatments that a client chooses to omit or refuse if the client becomes unable to make decisions and is terminally ill -C. Appoints a health proxy to make health care decisions on his/her behalf when the client can no longer make decisions -D. Is an order written by a physician when a client has indicated a desire to be allowed to die.
+answer: C. Appoints a health proxy to make health care decisions on his/her behalf when the client can no longer make decisions
+---
+question: 11. His subordinates follow him. Nurse Kit assumes the role of a/n:
+choices: -A. Leader -B. Manager -C. Advocate -D. Communicator
+answer: A. Leader
+---
+question: 12. Which among the theories of leadership and management applies to Nurse Kit?
+choices: -A. Charismatic -B. Servant -C. Advocate -D. Transformational
+answer: D. Transformational
+---
+question: 13. As part of quality improvement, Nurse Kit is facilitating a meeting regarding the most effective nursing delivery system. Nurse Kit asks type of health care delivery system is otherwise known as
+choices: -A. Functional Nursing -B. Primary Nursing -C. Team Nursing -D. Client-focused care
+answer: D. Client-focused care
+---
+question: 14. The following are qualities of an effective leader and manager, except:
+choices: -A. Independent -B. Credible -C. Risk-taker -D. Persuasive and influences employees
+answer: A. Independent
+---
+question: 15. A new nursing graduate is attending an agency orientation regarding the nursing model of practice implemented in the health care facility. The nurse is told that the nursing model is a team nursing approach. The nurse understands that planning care delivery will be based on which characteristic of this type of nursing model of practice?
+choices: -A. A task approach method is used to provide care to clients -B. Managed care concepts and tools are used in providing care -C. A single registered nurse is responsible for providing care to a group of clients -D. A registered nurse leads nursing personnel in providing care to a group of clients
+answer: D. A registered nurse leads nursing personnel in providing care to a group of clients
+---
+question: 16. A client is hospitalized with a diagnosis of possible Cancer of the pancreas. On admission the client asks the nurse, “Do you think I have anything serious like cancer? ”What is the nurse’s best reply?
+choices: -A. “What makes you think you have cancer? -B. “I don’t know if you do, but let’s talk about it -C. “Why don’t you discuss this with your doctor?” -D. “Don’t worry, we won’t know until all the test result are back.”
+answer: B. “I don’t know if you do, but let’s talk about it
+---
+question: 17. Nurse Markus approaches a male client and asks how he is feeling. The client states “I’m feeling a bit nervous today.” Which of the following is the Nurse’s best reply?
+choices: -A. Please explain what you mean by the word nervous -B. What is making you feel nervous? -C. Would a backrub ease your nervousness? -D. You do look like you’re nervous
+answer: A. Please explain what you mean by the word nervous
+---
+question: 18. When assessing a client what statement would indicate negative self-talk?
+choices: -A. Everyone has to learn something new sometime -B. I am looking forward to making home visits , but I am also nervous -C. This is going to be difficult, but I know I can do it -D. Who can ever have enough experience to prepare for that job?
+answer: D. Who can ever have enough experience to prepare for that job?
+---
+question: 19. While receiving a preoperative enema a client starts to cry and says. “I’m sorry you have to do this messy thing me,” what is the best response by the nurse?
+choices: -A. “I don’t mind it.” -B. “You seem to be upset.” -C. “This is part of my job.” -D. “Nurses get used to this.”
+answer: B. “You seem to be upset.”
+---
+question: 20. “But you don’t understand” is a common statement associated with adolescent. The best response by the nurse when communicating with an adolescent is to say:
+choices: -A. “I don’t understand.” -B. “I would like to understand, let’s talk.” -C. “I don’t understand. I was a teenager once too.” -D. “I’m not sure have to I believe it’s you who has to understand.”
+answer: B. “I would like to understand, let’s talk.”
+---
+question: 21. The care plan includes a nursing intervention “5/15/22 Measure client’s fluid intake and output. J. Santos, RN.” What element of a proper nursing intervention has been omitted?
+choices: -A. Action verb -B. Content -C. Time -D. None
+answer: C. Time
+---
+question: 22. Which charting entry would be the most defensible in court?
+choices: -A. Client fell out of bed -B. Client drunk on admission -C. Large bruise on left thigh -D. Notified Dr. Jackson on BP of 90/40
+answer: D. Notified Dr. Jackson on BP of 90/40
+---
+question: 23. A 74-year-old female is brought to the emergency department with complaints of right hip pain. The right leg is shorter than the left and is extremely rotated. During inspection, Nurse Manny observes what appears to be cigarette burns on the client’s inner thighs. Which of the following is the most appropriate documentation?
+choices: -A. Six round skin lesions partially healed, on the inner thighs bilaterally -B. Several burned areas on both of the client’s inner thighs -C. Multiple lesions on inner thighs possibly related to elder abuse -D. Several lesions on inner thighs possibly related to elder abuse
+answer: A. Six round skin lesions partially healed, on the inner thighs bilaterally
+---
+question: 24. When planning care for assigned clients, what care can the Head Nurse Dodong on a Medical- Surgical unit safely delegate to a Novice nurse?
+choices: -A. Evaluating the effectiveness of acetaminophen and codeine (Tylenol No 3) -B. Obtaining an apical pulse rate before administration of coral digoxin (Lanoxin) -C. Assisting a client who has patient-controlled analgesia (PCA) to the bathroom -D. Assessing the wound integrity of client recovering from an abdominal laparotomy
+answer: C. Assisting a client who has patient-controlled analgesia (PCA) to the bathroom
+---
+question: 25. The Nurse is assigned to care for four clients. In planning client rounds, which client would the Nurse Dodong assess first?
+choices: -A. A client receiving oxygen via nasal cannula who had difficulty breathing during the previous shift -B. A postoperative client preparing for discharge -C. A client scheduled for a chest X-ray -D. A client requiring daily dressing changes
+answer: A. A client receiving oxygen via nasal cannula who had difficulty breathing during the previous shift
+---
+question: 26. Nurse Deana is teaching a client about prescribe restricted diet. What is the Nurse’s best initial comment?
+choices: -A. “You can eat only the on this list.” -B. “What types of food do you usually eat?” -C. “You need to limit the intake of food on this list.” -D. “Do you understand why you have these food restrictions?
+answer: B. “What types of food do you usually eat?”
+---
+question: 27. Nurse Deana is preparing a nursing care plan to a client with Diabetes Mellitus (D.M.) that includes before discharge to know how to self-administer insulin, adjust the insulin dosage, understand the diet, and test the serum for glucose level. The client progresses well and is discharge 5 days following admission. Legally the
+choices: -A. Nurse was properly functioning as a health teacher -B. Visiting nurse should do health teaching in the client’s home -C. Family members also should have been taught to administer the insulin -D. Physician was responsible and the nurse should have cleared the care with the physician
+answer: A. Nurse was properly functioning as a health teacher
+---
+question: 28. Which teaching method has been evaluated as most effective in a new diabetic client?
+choices: -A. Utilizing breaks after each unit of the teaching session -B. Having the client repeat the steps of insulin administration -C. Encouraging the client to ask many questions -D. Confirming that the client is able to give his own insulin
+answer: B. Having the client repeat the steps of insulin administration
+---
+question: 29. Which of the following statements by a client would alert the Nurse that further teaching on the idea of a restful sleep is indicated?
+choices: -A. I don’t take naps throughout the day -B. I go to bed and get up routinely at the same time each day -C. I have a small snack and take a bath before going to bed each day -D. I went to bed earlier than usual and I rested and watched television until I fall asleep
+answer: D. I went to bed earlier than usual and I rested and watched television until I fall asleep
+---
+question: 30. What can the Nurse do to support the client’s ability to sleep in the hospital setting?
+choices: -A. Assess the client’s towards the end of the shift , closer to the normal awakening time -B. Darken the room as much as possible by keeping the lights off -C. Limit the noise and distraction on the unit -D. Provide a bath or shower before bedtime
+answer: C. Limit the noise and distraction on the unit
+---
+question: 31. What does Nurse Benhur identify as the most likely cause of the infiltration of a client’s IV?
+choices: -A. Excessive height of the IV solution -B. Failure to adequately secure the catheter -C. Lack of asepsis during catheter insertion -D. Infusion of chemically irritating medication
+answer: B. Failure to adequately secure the catheter
+---
+question: 32. Another client has an IV infusion. If the IV infusion infiltrates, what should Nurse Benhur do first?
+choices: -A. Elevate the IV site. -B. Discontinue the infusion. -C. Attempt to flush the tube. -D. Apply a warm, moist compress.
+answer: B. Discontinue the infusion.
+---
+question: 33. The Physician orders the application of a warm soak to an IV site that has infiltrated. Nurse Benhur understands that the application of local heat transfer temperature to the body via the principles of:
+choices: -A. Radiation -B. Insulation -C. Convection -D. Conduction
+answer: D. Conduction
+---
+question: 34. A Physician orders 2000 ml of 5% dextrose and 1/2 Normal Saline to infuse over 24 hours. The drop factor is 15 drops per ml. Nurse Benjie sets the flow rate at how many drops per minute?
+choices: -A. 15 drops per minute -B. 17 drops per minute -C. 21 drops per minute -D. 28 drops per minute
+answer: C. 21 drops per minute
+---
+question: 35. A Physician has ordered 1000 ml of intravenous fluid to another client to run at 45 drops per minute. Using 15 drops per cc dropper, approximately how long should the IVF run?
+choices: -A. 4 hours -B. 4.5 hours -C. 5 hours -D. 5.5 hours
+answer: D. 5.5 hours
+---
+question: 36. Erika a medical ward nurse understands that this decrease in bowel function is most likely caused by which situation?
+choices: -A. Decrease blood supply -B. Impaired neural functioning -C. Perforation of the bowel wall -D. Obstruction of the bowel lumen
+answer: B. Impaired neural functioning
+---
+question: 37. Another client in the ward has been prescribed of an Enema. During administration of an Enema, a client complains of intestinal cramps. What should Nurse Erika do?
+choices: -A. Give it at a slower rate -B. Discontinue the procedures -C. Stop until cramps are gone -D. Lower the height of the container
+answer: D. Lower the height of the container
+---
+question: 38. Simeon 48 year old is admitted for complaints of moderate to severe abdominal pain for 2 weeks. He has a strong history of Cancer. Nurse Erika explains to a client who is schedule for a Barium enema that visualization of the GI tract is made possible by the:
+choices: -A. High x-ray absorbing properties of barium -B. Coloring of the intestinal wall with barium -C. High x-ray transmitting properties of barium -D. Chemical interaction between electrolytes and barium
+answer: A. High x-ray absorbing properties of barium
+---
+question: 39. Another client needs further laboratory studies like the 24-hour urine collection. When collecting a 24-hour urine specimen, what should Nurse Erika do?
+choices: -A. Check preservatives need to be added -B. Weigh the client before starting the collection -C. Discard the last voided specimen of the 24-hours period -D. Check the client’s intake and output for the previous 24-hour period
+answer: A. Check preservatives need to be added
+---
+question: 40. Nurse Erika is emptying a client’s urinal when she notices the urine is dark and amber, cloudy and has an unpleasant odor. The Nurse would suspect the client has what condition?
+choices: -A. A urinary tract infection -B. Urinary Incontinence -C. Urinary frequency -D. Urinary retention
+answer: A. A urinary tract infection
+---
+question: 41. The nurse understands that the main reason that sink faucets in a client’s room are considered contaminated is that:
+choices: -A. They are not in sterile areas -B. They are opened with dirty hands -C. large numbers of people use them -D. Water encourages bacterial growth
+answer: B. They are opened with dirty hands
+---
+question: 42. When the nurse washes the hands before and after caring for a client, the nurse understands that the most important aspect of hand washing is:
+choices: -A. Time -B. Soap -C. Water -D. Friction
+answer: D. Friction
+---
+question: 43. The nurse is expected to apply a dressing to a client’s surgical wound using sterile technique. While engaging in this activity, the nurse accidentally places a moist sterile gauze pad in the cloth sterile field. The nurse understands that the sterile is now contaminated because of:
+choices: -A. Dialysis -B. Osmosis -C. Diffusion -D. Capillarity
+answer: D. Capillarity
+---
+question: 44. The nurse is preparing to change a client’s dressing. Which statement best explains the basis of surgical asepsis as it relates to this procedure:
+choices: -A. Keep the area free of microorganisms. -B. Confine microorganisms to the surgical site. -C. Protect self from microorganisms in the wound. -D. Keep the number of opportunistic microorganisms to a minimum.
+answer: A. Keep the area free of microorganisms.
+---
+question: 45. When assessing an obese client, the nurse identifies dehiscence (opening of suture) and evisceration (protrusion of organs) of the abdominal surgical wound. After placing the client in the low-fowler’s position with the knees slightly bent (DORSAL RECUMBENT – to relax abdominal and encouraging the client to lie quietly, what should the nurse do next?
+choices: -A. Notify the physician -B. Obtain the client’s vital signs. -C. Reinsert the protruding organs -D. Cover the wound with a sterile towel moistened with saline
+answer: D. Cover the wound with a sterile towel moistened with saline
+---
+question: 46. During the initial physical assessment of a newly admitted client with a pressure ulcer, Nurse Echo identifies that the client is dehydrated and the skin is dry and scaly. He immediately applies emollients to the client’s skin and reinforces the dressing on the pressure ulcer. Legally:
+choices: -A. The nurse should have instituted a plan to increase activity -B. The nurse provided supportive nursing care for the well-being of the client -C. No treatment should have been instituted for the client until the physician’s orders were received -D. Debridement of the pressure ulcer should have been done by the nurse before the dressing was applied
+answer: B. The nurse provided supportive nursing care for the well-being of the client
+---
+question: 47. Another emaciated older adult develops a large pressure ulcer after refusing to change position for extended periods of time. The family is very upset, blames the nurses, and threatens to sue her. The decision in this suit would take into consideration the fact that:
+choices: -A. The client should be turned every hour -B. Pressure ulcer frequently occur in older clients -C. Nurses are not responsible to the client’s family -D. The nurse should uphold the client’s right not to be moved → ethically wrong
+answer: A. The client should be turned every hour
+---
+question: 48. The Physician made his rounds and suspects a client with Melanoma also has primary Cancerous lesions in the connective tissues. Nurse Echo understands that these lesions are classified as:
+choices: -A. Sarcomas -B. Carcinomas -C. Collagenomas -D. Osteoblastomas
+answer: A. Sarcomas
+---
+question: 49. Nurse Echo is attending to a post-op client. In which position should the nurse place a client recovering from general anesthesia?
+choices: -A. Supine -B. Side-lying -C. High-flower -D. Trendelenburg
+answer: B. Side-lying
+---
+question: 50. Nurse Echo applies an ice pack to a client’s leg for 20 minutes. Which clinical indicator would help Nurse Echo determine the effectiveness of the cold application?
+choices: -A. Local anesthesia -B. Peripheral vasodilation -C. Depression of vital sign -D. Decreased viscosity of blood
+answer: A. Local anesthesia
+---
+question: 51. The nurse is caring for a client with an IV who is experiencing dyspnea, hypotension, a weak, rapid pulse, a decreased level of consciousness, and who is becoming cyanotic. The priority nursing intervention is to:
+choices: -a. Notify the physician -b. Place the client in Trendelenburg position -C. Administer oxygen -d. Discontinue the IV
+answer: C. Administer oxygen
+---
+question: 52. Which of the following evaluation does the nurse make when the venipuncture site has an observable swelling and is tender and cool to touch?
+choices: -a. An infection has developed -b. Bleeding into the surrounding tissue has occurred -c. The IV site was infiltrated -d. A phlebitis is developing
+answer: c. The IV site was infiltrated
+---
+question: 53. A client who is receiving a continuous intravenous therapy is complaining of sudden dyspnea, cough, and tachycardia. The nurse auscultates crackles bilaterally. In determining what action to take next, which of the following factors should the nurse consider?
+choices: -a. The client is apprehensive about receiving continuous IV fluids -b. The client has developed a respiratory infection or pneumonia -c. The client is exhibiting signs of hypervolemia -d. The client is experiencing internal bleeding
+answer: c. The client is exhibiting signs of hypervolemia
+---
+question: 54. Heparin 3,000 “u” in 1,000 mL of normal saline is to be administered IV over 24 hours via micro drip. The nurse should administer how many units of Heparin per hour?
+choices: -a. 635 -b. 1,000 -c. 1,250 -d. 125
+answer: d. 125
+---
+question: 55. To decrease the occurrence of pressure sores on Aling Stephanie, the nursing team’s goal is to reduce pressure points. The MOST appropriate nursing intervention would be:
+choices: -a. Elevate the head part of the bed as little as possible. -b. Massage over the bony prominences. -c. Use a “donut” cushion while the client is seated. -d. Place the client on a side lying position.
+answer: a. Elevate the head part of the bed as little as possible.
+---
+question: 56. While assessing the clients assigned to your care, you observe that the client with the greatest risk for developing a “bedsore” or pressure sore would be:
+choices: -a. 4 year old girl in Buck’s traction. -b. 40 year old unconscious client. -c. 82 year old client who has had mild stroke. -d. 70 year old client with type 2 diabetes.
+answer: b. 40 year old unconscious client.
+---
+question: 57. While assessing the pressure sore of a 75 year old client, the nurse documents that healing is not taking place when she observes the presence of:
+choices: -a. Eschar -b. Exudates -c. cGranulation tissue -d. Ragged edges around the wound -e. Granulation tissue
+answer: a. Eschar
+---
+question: 58. Which among the following food choices is considered as important in the diet of a patient with pressure ulcer?
+choices: -a. Carbohydrates -b. Vitamins and Minerals -c. Protein -d. Micronutrients
+answer: c. Protein
+---
+question: 59. Which among the following food choices is considered vital to the development of collagen for faster wound healing?
+choices: -a. Carbohydrates -b. Vitamins and Mineral -C. Protein -d. Micronutrients
+answer: C. Protein
+---
+question: 60. An elderly client fell from her bed and was observed by her daughter. The nurse in charge should write an incident report (OBJECTIVE) containing the following, except:
+choices: -a. Patient’s initials -b. Date, time, and place of incident -c. Blames on other staff nurses on duty -d. Daughter as witness to the incident
+answer: c. Blames on other staff nurses on duty
+---
+question: 61. Which of the following statements is correct and should be included in the discussion?
+choices: -a. Standard precautions destroy the number of potentially infectious agents. -b. Medical asepsis is designed to decrease exposure to blood borne pathogens. -c. Medical asepsis is designed to confine microorganisms to a specific area, limiting the number, growth, and transmission of microorganisms. -d. The term standard precaution is synonymous with disease or category-specific isolation precautions.
+answer: c. Medical asepsis is designed to confine microorganisms to a specific area, limiting the number, growth, and transmission of microorganisms.
+---
+question: 62. The nurse knows that which of the following is the proper technique for medical asepsis?
+choices: -A. Gloving for all client contact -b. Changing hospital linen weekly -c. Using your hands to turn off the faucet after hand washing -d. Gowning to care for a 1 year old child with infectious diarrhea
+answer: d. Gowning to care for a 1 year old child with infectious diarrhea
+---
+question: 63. For which procedure would the nurse use aseptic technique and which would require the nurse to use sterile technique?
+choices: -a. Aseptic technique for changing the client’s linen and sterile technique for placing a central line -b. Aseptic technique for urinary catheterization in the hospital and sterile technique for cleaning surgical wounds -c. Aseptic technique for a spinal tap and sterile technique for surgery -d. Aseptic technique for food preparation and sterile technique for starting an IV line
+answer: a. Aseptic technique for changing the client’s linen and sterile technique for placing a central line
+---
+question: 64. The nurse is to open a sterile package from the central supply. Which is the correct direction to open the first flap?
+choices: -a. Toward the nurse -b. Away from the nurse -c. To the nurse’s left and right -d. It does not matter as long as the nurse only touches the outside edge.
+answer: b. Away from the nurse
+---
+question: 65. An adult has a draining pressure ulcer on her sacrum and she’s to be discharged to her daughter’s care. The nurse has taught the client’s daughter to perform dressing changes. Which observation by the nurse indicates that the daughter’s technique is done correctly?
+choices: -a. She uses only sterile gloves to remove the old dressing -b. She irrigates the wound from the bottom upwards -c. She places the forceps to use to remove the old dressing on the sterile field -d. She washes her hands before gloving and after the procedure is done
+answer: d. She washes her hands before gloving and after the procedure is done
+---
+question: 66. Which of the following pain intensity scales is specifically designated for neonates? It uses the physiological indicators to assess behaviors that indicate pain
+choices: -a. PAINAD scale -b. Wong-Baker FACES scale -c. CRIES scale -d. FLACC scale
+answer: c. CRIES scale
+---
+question: 67. Which of the following is the gold standard to determine if pain is present?
+choices: -a. Behavioral signs -b. Self-report -c. Physiological indicators -d. Analgesia trial
+answer: b. Self-report
+---
+question: 68. Which of the following is true regarding Patient-Controlled Analgesia (PCA)?
+choices: -a. It minimizes the roller-coaster effect of peaks of sedation and valleys of pain. -b. Doctors are the ones who first provide the initial instructions on how to use PCA. -c. It allows the client to maintain a more constant level of relief yet need more medication for pain relief. -d. It makes pain management more effective even if oral management is possible.
+answer: a. It minimizes the roller-coaster effect of peaks of sedation and valleys of pain.
+---
+question: 69. What of the following explains the purpose of “lockout interval”?
+choices: -a. It controls how much medication a client receives in a defined period of time. -b. It defines how frequent a patient can give himself a dose of the pain medication. -c. It controls the speed of the infusion of the pain medication. -d. It defines how much analgesia can the patient administer to himself should he experience breakthrough pain.
+answer: b. It defines how frequent a patient can give himself a dose of the pain medication.
+---
+question: 70. Which of the following should not be done to lessen any errors when using PCA?
+choices: -a. Advise the family members to activate the PCA for the client should they feel that their loved one is in pain. -b. Monitor the ongoing therapy at least every 4 hours. -c. Two registered nurses should double-check the initial settings and for any changes in dose or medication and both should document these on the medical record. -d. Check for the client’s pain, ability to understand and the use of the device at regular intervals
+answer: a. Advise the family members to activate the PCA for the client should they feel that their loved one is in pain.
+---
+question: 71. The client needs to be a participant in decisions regarding health care. The following are guidelines in signing the informed consent. 1. A consent must be signed freely by the client without threat or pressure 2. Must be witnessed by anyone 3. If a client is declared mentally or emotionally incompetent, the next of kin, any guardian, or durable power of attorney has legal authority to give consent 4. A client has the right to refuse information 5. The client has the right to waive the informed consent and undergo treatment
+choices: -A. 1, 2, 3, 4, 5 -B. 1, 3, 4 -C. 1, 3, 4, 5 -D. 1, 4, 5
+answer: C. 1, 3, 4, 5
+---
+question: 72. In signing consents, the client should be mentally and emotionally competent. Who among the following clients may sign the informed consent?
+choices: -A. Declared incompetent -B. Under the influence of absinthe -C. Diagnosed with dysthymia -D. Unconscious
+answer: C. Diagnosed with dysthymia
+---
+question: 73. The mother of the client asks who should sign the consent. Nurse Theo’s response should be guided by which of the following principles?
+choices: -A. The consent should be signed by anyone of legal age (18 years old) -B. A minor may give legal consent, but consent must be obtained from a parent or the legal guardian -C. Parental or guardian consent should be obtained before treatment is initiated for a minor -D. An emancipated minor is considered legally capable of signing an informed consent
+answer: D. An emancipated minor is considered legally capable of signing an informed consent
+---
+question: 74. All of the following is a violation and invasion of client privacy, except:
+choices: -A. Taking photographs of the client for medical purposes while she is in general anesthesia, and making sure to put a black bar over the eyes upon print out -B. Drawing out the curtains while performing a medical procedure -C. Intrusion by the health care agency regarding the client’s affairs -D. Leaving a confused or agitated client sitting in the nursing unit hallway
+answer: B. Drawing out the curtains while performing a medical procedure
+---
+question: 75. The client asks if she needs a durable power of attorney. Upon assessment, Nurse Theo concludes that the client has an incorrect perception of the topic. Nurse Theo corrects this by stating that a durable power of attorney:
+choices: -A. Is the client’s right to identify written directions about the care that they wish to receive -B. Lists the medical treatments that a client chooses to omit or refuse if the client becomes unable to make decisions and is terminally ill -C. Appoints a healthy proxy to make health care decisions on his/her behalf when the client can no longer make decisions -D. Is an order written by a physician when a client has indicated a desire to be allowed to die.
+answer: C. Appoints a healthy proxy to make health care decisions on his/her behalf when the client can no longer make decisions
+---
+question: 76. Nora a medical ward nurse understands that this decrease in bowel function is most likely caused by which situation?
+choices: -A. Decrease blood supply -B. Impaired neural functioning -C. Perforation of the bowel wall -D. Obstruction of the bowel lumen
+answer: B. Impaired neural functioning
+---
+question: 77. Another client in the ward has been prescribed of an Enema. During administration of an Enema, a client complains of intestinal cramps. What should Nurse Nora do?
+choices: -A. Give it at a slower rate -B. Discontinue the procedures -C. Stop until cramps are gone -D. Lower the height of the container
+answer: D. Lower the height of the container
+---
+question: 78. Frank 48 year old is admitted for complaints of moderate to severe abdominal pain for 2 weeks. He has a strong history of Cancer. Nurse Nora explains to a client who is schedule for a Barium enema that visualization of the GI tract is made possible by the:
+choices: -A. High x-ray absorbing properties of barium -B. Coloring of the intestinal wall with barium -C. High x-ray transmitting properties of barium -D. Chemical interaction between electrolytes and barium
+answer: A. High x-ray absorbing properties of barium
+---
+question: 79. Another client needs further laboratory studies like the 24-hour urine collection. When collecting a 24-hour urine specimen, what should Nurse Nora do?
+choices: -A. Check preservatives need to be added -B. Weigh the client before starting the collection -C. Discard the last voided specimen of the 24-hours period -D. Check the client’s intake and output for the previous 24-hour period
+answer: A. Check preservatives need to be added
+---
+question: 80. Nurse Nora is emptying a client’s urinal when she notices the urine is dark and amber, cloudy and has an unpleasant odor. The Nurse would suspect the client has what conditions?
+choices: -a. A urinary tract infection -b. Urinary incontinence -c. urinary frequency -d. urinary retention
+answer: a. A urinary tract infection
+---
+question: 81. The nurse understands that the main reason that sink faucets in a client’s room are considered contaminated is that:
+choices: -A. They are not in sterile areas -B. They are opened with dirty hands -C. large numbers of people use them -D. Water encourages bacterial growth
+answer: B. They are opened with dirty hands
+---
+question: 82. When the nurse washes the hands before and after caring for a client, the nurse understands that the most important aspect of hand washing is:
+choices: -A. Time -B. Soap -C. Water -D. Friction
+answer: D. Friction
+---
+question: 83. The nurse is expected to apply a dressing to a client’s surgical wound using sterile technique. While engaging in this activity, the nurse accidentally places a moist sterile gauze pad in the cloth sterile field. The nurse understands that the sterile is now contaminated because of:
+choices: -A. Dialysis -B. Osmosis -C. Diffusion -D. Capillarity
+answer: D. Capillarity
+---
+question: 84. The nurse is preparing to change a client’s dressing. Which statement best explains the basis of surgical asepsis as it relates to this procedure:
+choices: -a. Keep the area free of microorganisms. -B. Confine microorganisms to the surgical site. -C. Protect self from microorganisms in the wound. -D. Keep the number of opportunistic microorganisms to a minimum.
+answer: a. Keep the area free of microorganisms.
+---
+question: 85. When assessing an obese client, the nurse identifies dehiscence and evisceration of the abdominal surgical wound. After placing the client in the low-fowler’s position with the knees slightly bent and encouraging the client to lie quietly, what should the nurse do next?
+choices: -A. Notify the physician -B. Obtain the client’s vital signs. -C. Reinsert the protruding organs -D. Cover the wound with a sterile towel moistened with saline
+answer: D. Cover the wound with a sterile towel moistened with saline
+---
+question: 86. Cara understands she is expected to lead. Leadership is defined as:
+choices: -A. Being in a staff nurse utilizing authority to control and power over subordinates and patients. -B. A process where a person utilizes interpersonal relationship that influences others toward goal achievement. -C. Plans, organizes and maintains quality care to patients. -D. A head nurse watching over other staff nurses perform patient care correctly and render safe quality patient care.
+answer: B. A process where a person utilizes interpersonal relationship that influences others toward goal achievement.
+---
+question: 87. Cara’s manager demonstrated passion for serving her staff rather than being served. She takes time to listen, prefers to be a teacher first before being a leader. Cara’s manager displays leadership that is characteristic of a:
+choices: -A. Transformational leader -B. Transactional leader -C. Servant leader -D. Charismatic leader
+answer: C. Servant leader
+---
+question: 88. Cara’s head nurse fostered creativity among staff members. Fostering creativity among the team is a characteristic of which leadership style?
+choices: -A. Participative -B. Directive -C. Permissive -D. Bureaucratic
+answer: A. Participative
+---
+question: 89. On the other hand, Cara notices that the Chief Nurse Executive has charismatic leadership style. Which of the following behaviors best describes this style?
+choices: -A. Possesses inspirational quality that makes followers gets attracted of him and regards him with reverence -B. Acts as he does because he expects that his behavior will yield positive results -C. Uses visioning as the core of his leadership -D. Matches his leadership style to the situation at hand.
+answer: A. Possesses inspirational quality that makes followers gets attracted of him and regards him with reverence
+---
+question: 90. One leadership theory states that “leaders are born and not made,” which refers to which of the following theories?
+choices: -A. Trait -B. Charismatic -C. Great Man -D. Situational
+answer: C. Great Man
+---
+question: 91. Why leadership plays a vital role in the nursing profession?
+choices: -A. It is not really important for nurses. -B. Nurses have expert knowledge and are interacting with and influencing the clients. -C. Nurses should know how to direct people towards accomplishment of goals -D. Nurses should always strive for higher positions in the organization.
+answer: B. Nurses have expert knowledge and are interacting with and influencing the clients.
+---
+question: 92. Cara understands that a Theory which states that the Leadership style is dependent on the situation. Which of the following styles best fits a situation when the followers are self-directed, highly motivated, experts and matured individuals?
+choices: -A. Participative -B. Directive -C. Permissive -D. Bureaucratic
+answer: C. Permissive
+---
+question: 93. Cara would like to be a Transformational leader. Which of the following statements best describes this type of leadership?
+choices: -A. Uses visioning as the essence of leadership. -B. Serves the followers rather than being served. -C. Maintains full trust and confidence in the subordinates -D. Possesses innate charisma that makes others feel good in his presence.
+answer: A. Uses visioning as the essence of leadership.
+---
+question: 94. Claudette RN is a head nurse assigned at the Intensive Care Unit of a Secondary Level Hospital. As a manager, Claudette is expected to display effective conflict resolution skills. Which of the following is true about conflict?
+choices: -A. It seldom occurs as part of the change process in health care settings. -B. It highlights differences in values, belief, or actions. -C. It is automatically negative -D. It discourages creativity and innovation.
+answer: B. It highlights differences in values, belief, or actions.
+---
+question: 95. Conflict that occurs between groups or teams is called:
+choices: -A. Interpersonal -B. Intrapersonal -C. Organizational -D. Dysfunctional
+answer: C. Organizational
+---
+question: 96. In this conflict resolution method, a person ignores his or her own feelings about an issue in order to agree with the other side.
+choices: -A. Collaborating -B. Confronting -C. Accommodating -D. Withdrawing
+answer: C. Accommodating
+---
+question: 97. With this method of conflict resolution, each side gives up something as well as gets something:
+choices: -A. Negotiating -B. Competing -C. Avoiding -D. Compromising
+answer: D. Compromising
+---
+question: 98. Nurse Kate feels uncomfortable believing that she is the scapegoat of everything that goes wrong in her department. Which of the following is the best action that she must take?
+choices: -A. Identify the source of the conflict and understand the points of friction -B. Disregard what she feels and continue to work independently -C. Seek help from the Director of Nursing -D. Quit her job and look for another employment.
+answer: A. Identify the source of the conflict and understand the points of friction
+---
+question: 99. Which of the following is a characteristic of decision-making?
+choices: -A. it only involves logical, rational thought -B. it is often the result of many incremental steps rather than one large step. -C. It must always be done quickly in the health care setting. -D. they generally do not assume another person’s point of view.
+answer: B. it is often the result of many incremental steps rather than one large step.
+---
+question: 100. Which of the following is true about effective creative thinkers?
+choices: -A. They seldom generate new ideas and alternatives. -B. They often say, “We’ve always done it this way, so let us do it this way again.” -C. They tend to analyze the components of a problem. -D. They generally do not assume another person’s point of view.
+answer: C. They tend to analyze the components of a problem.
+---

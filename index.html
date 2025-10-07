@@ -3,33 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Hello ❤</title>
 </head>
 <br>
 <body>
     <script src="main.js" defer></script>
 
-    <h1>Hello \(@^0^@)/❤</h1>
-    <p>This is a simple reviewer (。・ω・。)</p>
-    <input type="file" id="fileInput">
-    <button type="button" onclick="processFile()">Process file ヾ(•ω•`)o</button>
-
-    <h3 id="output"></h3>
-
-    <form hidden id="choicesForm">
-    <input type="radio" id="a" name="choice" value="a">
-    <label for="a">a</label><br>
-    <input type="radio" id="b" name="choice" value="b">
-    <label for="b">b</label><br>
-    <input type="radio" id="c" name="choice" value="c">
-    <label for="c">c</label><br>
-    <input type="radio" id="d" name="choice" value="d">
-    <label for="d">d</label>
-    </form>
-    <br>
-    <h3 id="answer"></h3>
-    <br>
-    <button id="next" type="button" onclick="nextQuestion()" hidden>Next Question (o^▽^o)</button>
+    <div id="main-div" align="center">
+        <h1>( ﾉ ﾟｰﾟ)ﾉ My Reviewer App ＼(ﾟｰﾟ＼)</h1>
+        <p>dont judge too much (┬┬﹏┬┬)</p>
+        
+        <input type="file" id="fileInput" style="display: none;">
+        <button type="button" id="uploadBtn" class="custom-file-label">Upload Your File ..(^・ω・^ )</button>
+        <button type="button" onclick="processFile()"class="custom-file-label">Process file ヾ(•ω•`)o</button>
+        
+        <script>
+            document.getElementById("uploadBtn").addEventListener("click", function() {
+                document.getElementById("fileInput").click();
+            });
+        </script>
+        <br><br>
+        <div id="output"></div>
+        <br>
+    </div>
     
 </body>
 </html>

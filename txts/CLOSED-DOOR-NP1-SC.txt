@@ -1,0 +1,399 @@
+question: 1. Nurse Bini needs to have a fundamental understanding of _______to be effective in her caregiving role to various types of clients in the community.
+choices: -A. statistics -B. research -C. nursing process -D. nursing theories
+answer: C. nursing process
+---
+question: 2. Nurse Bini should be aware that the PRIMARY goal of CHN is to emphasize the essence of ______ in her role as a planner/programmer in the community.
+choices: -A. optimum health and wellness. -B. restoration of full function -C. rehabilitative part of care -D. Curative aspect of care
+answer: A. optimum health and wellness.
+---
+question: 3. What is the BEST community health nursing principle that will facilitate Nurse Bini’s efficient execution of her roles and functions?
+choices: -A. different health needs and problems -B. various structures and resources -C. is considered as a primary client. -D. is composed of individuals and families
+answer: C. is considered as a primary client.
+---
+question: 4. As part of the monitoring of community’s health, which of the following should be considered by Nurse Bini as health threats? 1. Ineffective breastfeeding 2. Fire hazards 3. Inadequate immunization 4. Polluted water supply
+choices: -A. 3,4 -B. 2,3,4 -C. 1,2 -D. 1,2,3,4
+answer: D. 1,2,3,4
+---
+question: 5. Which is the INITIAL task of Nurse Bini as a community organizer?
+choices: -A. Formulates individuals, family groups and community care plan. -B. Motivates and enhances community participation. -C. Mental illness is a global concern. -D. Mental illness is incurable.
+answer: A. Formulates individuals, family groups and community care plan.
+---
+question: 6. Teaching the families on promoting mental health at home in this pandemic time should focus on the following EXCEPT ____.
+choices: -A. Seeking community support -B. Practicing open communication -C. Connecting with friends -D. Engaging in social media the whole day
+answer: D. Engaging in social media the whole day
+---
+question: 7. Which of the following roles of Nurse Joji should he prioritize during the pandemic to prevent the increase of mental health issues in the community?
+choices: -A. Case Finder -B. Case Manager -C. Researcher -D. Surveyor
+answer: A. Case Finder
+---
+question: 8. As a result of the pandemic, some people are experiencing mental health issues. The BEST action of Nurse Joji would be to __________.
+choices: -A. Set up a mental health program -B. Help in setting up debriefing stations -C. Recommend hiring of a community psychiatrist -D. Refer for admission at the mental health unit
+answer: B. Help in setting up debriefing stations
+---
+question: 9. Which of the following statements is beneficial in managing the severity of mental health problems in the community?
+choices: -A. Mentally-ill patients are always dangerous. -B. Mental illness is hereditary. -C. Mental illness is a global concern. -D. Mental illness is incurable.
+answer: C. Mental illness is a global concern.
+---
+question: 10. After the webinar on the Mental Health Act, Nurse Lisa realized that one of the following community’s perceptions must change.
+choices: -A. Mental illness is not hereditary -B. Community resilience is essential. -C. Mental illness is incurable. -D. Availability of psychosocial service should be promoted.
+answer: C. Mental illness is incurable.
+---
+question: 11. To properly manage community health needs, Nurse Koko needs to have a deeper understanding of disease PREVALENCE since it pertains to the___________
+choices: -A. Risks to health program -B. Presence of health problems -C. Priority needs of the people -D. Magnitude of health problem
+answer: D. Magnitude of health problem
+---
+question: 12. Nurse Koko and her team utilized the Epidemiologic Triad Model to search for causes of health and disease in the community. Which of the following is not included?
+choices: -A. Treatment regimen -B. Susceptible host -C. External Agent -D. Environment
+answer: A. Treatment regimen
+---
+question: 13. Nurse Ben was notified regarding the measles outbreak in some areas of the community which he handles. Which of the following steps for outbreak investigation should Nurse Ben and his team initially do?
+choices: -A. Prepare for field work. -B. Identify and count cases. -C. Define and identify cases -D. Verify diagnosis
+answer: D. Verify diagnosis
+---
+question: 14. Nurse Ben is able to know the patterns of occurrence and distribution of disease in the community. Per record she found out there had been cases of rabies at irregular intervals scattered in particular place. This occurrence refers to ____.
+choices: -A. Endemic -B. Sporadic -C. Pandemic -D. Epidemic
+answer: B. Sporadic
+---
+question: 15. Nurse Ben’s primary function and responsibility as an epidemiology nurse is to__________
+choices: -A. Assist the epidemiologist in marketing reports. -B. Implement public health surveillances -C. Render nursing care to sick residents -D. Follow up cases and contacts
+answer: B. Implement public health surveillances
+---
+question: 16. Nurse Yunjin wants to highlight the healthy lifestyle on her health teaching. Among the given steps of teaching-learning process, which should she INITIALLY do?
+choices: -A. Preparing teaching materials -B. Evaluate client’s learning -C. Assessment of health needs -D. Creating a health education plan
+answer: C. Assessment of health needs
+---
+question: 17. Nurse Yunjin's target population is the parents in the community for her health education program about healthy lifestyles. Which CRUCIAL ASPECT should she included in the plan, given their diverse ethical backgrounds?
+choices: -A. Economic -B. Social -C. Education -D. Cultural
+answer: D. Cultural
+---
+question: 18. Which of the following principles, based on Knowles' Theory of Adult Learning, will guide the nurse to be a successful educator?
+choices: -A. Environment and learner’s participation -B. School where the participants graduated -C. Age and gender of learners -D. Educational attainment
+answer: A. Environment and learner’s participation
+---
+question: 19. Nurse Yunjin intends to have the community members brainstorm about the community's problems. Why did Nurse Yunjin prefer to apply this teaching format?
+choices: -A. Encourages problem solving and critical thinking skills -B. Links audience participation to the presenter’s speaking style and content -C. Allows the participation to generate ideas and discuss them in group setting -D. Offers shared experiences in a familiar setting
+answer: C. Allows the participation to generate ideas and discuss them in group setting
+---
+question: 20. Teaching and learning activities in different healthcare settings can be more effective by_______
+choices: -A. Identifying motivating factors -B. Establishing trust and rapport -C. Using clear and concise language -D. Setting realistic goals and objective
+answer: B. Establishing trust and rapport
+---
+question: 21. As part of TB case finding in the community, Nurse Angie should find individuals with ________ sputum.
+choices: -A. Rusty, frothy -B. Greenish -C. Yellowish -D. Blood stained
+answer: D. Blood stained
+---
+question: 22. Nurse Angie should know that feces, urine, blood, and other body fluids are categorized as______ in the context of communicable disease prevention.
+choices: -A. Portal of entry -B. Mode of Transmission -C. Infectious agent -D. Portal of exit
+answer: D. Portal of exit
+---
+question: 23. With the start of dengue season, nurses continue to implement various dengue prevention strategies. Nurses should prioritize health teaching about ways to prevent dengue, such as ________.
+choices: -A. Burning of dried leaves -B. Applying repellent lotions -C. Destroying breeding places of the vector -D. Wearing of protective clothing
+answer: C. Destroying breeding places of the vector
+---
+question: 24. A typhoid fever outbreak recently occurred in the community. As part of her responsibility, Nurse Angie should inform the residents that typhoid fever can be transmitted by___________.
+choices: -A. A vector -B. Air -C. Blood and Body fluids -D. Food and water
+answer: D. Food and water
+---
+question: 25. There are several reports of rabies cases in the community. Which of the following preventive actions should Nurse Angie teach the residents?
+choices: -A. Impound all dogs -B. Implement “No pets allowed” rule -C. Report to the households with dogs to the authorities in the community -D. Visit health center to have their dogs vaccinated
+answer: D. Visit health center to have their dogs vaccinated
+---
+question: 26. Nurse Bryan knows that he should not include which of the following in the domain of record management:
+choices: -A. Report to MD verbally regarding the wrong use of drug -B. Always keep human resources updates -C. Document the data important for endorsement using the Kardex -D. Ensure that entries in patient record are signed
+answer: B. Always keep human resources updates
+---
+question: 27. The nurse manager is also concerned with the improvement of nursing services and patient satisfaction. Which of the following strategies could be used to accomplish this goal?
+choices: -A. Hold regular staff meeting -B. Make chart audit -C. Plan suggestion box -D. Conduct purposeful hourly rounding of patients
+answer: D. Conduct purposeful hourly rounding of patients
+---
+question: 28. A doctor in the health facility forgot to change the order for antibiotics indicated to the patient. The doctor made a phone call order to Nurse Geto. What should Nurse Geto do in this situation?
+choices: -A. Contact any doctor in the facility sign the order -B. Ensure that the order will be signed by the doctor as soon as he is into the facility. -C. Carry all phone orders and bring chart to the doctor for signing. -D. Call back MD to give feedback.
+answer: B. Ensure that the order will be signed by the doctor as soon as he is into the facility.
+---
+question: 29. If Nurse Anna wrote in the treatment record: 180/60, ACE inhibitor with Diazide administered, BP decreased to 140/80 and urine output of 12000 cc for the whole shift. Based on these data, what type of charting do you think Nurse Anna did?
+choices: -A. PIE -B. AIRA -C. SOAP -D. DAR
+answer: D. DAR
+---
+question: 30. What is the main implication of having accurate, timely, and reliable documentation?
+choices: -A. Use from the shift report of nurse and doctor. -B. Serve as evidence of legal matters. -C. Protect nurse from doctors’ reprimand -D. Audit frequency of medical utilization.
+answer: B. Serve as evidence of legal matters.
+---
+question: 31. Which of the following is the rationale why teamwork is essential in health care?
+choices: -A. Helping one another -B. Lightens work burden -C. Patient safety -D. Fosters camaraderie
+answer: C. Patient safety
+---
+question: 32. Which among the following options is included in the primary elements of COLLABORATION?
+choices: -A. Partnership -B. Achievement of goals -C. Working together -D. Shared vision
+answer: A. Partnership
+---
+question: 33. As a member of the healthcare team, Nurse Annie believes that she is a good team player. Which of the following BEST portrays a good team player? 1. Tension reliever 2. Active listener 3. Inspires others 4. Proactive thinking
+choices: -A. 3,4 -B. 1,2,3 -C. 1,2 -D. 1,2,3,4
+answer: D. 1,2,3,4
+---
+question: 34. Nurse Annie wants to know which element should she prioritize to attain an effective collaboration?
+choices: -A. Delegation -B. Belongs to one team -C. Networking -D. Communication
+answer: D. Communication
+---
+question: 35. Nurse Gloc instills collaborative partnership in his interactions with his coworkers. What is the goal of this form of partnership?
+choices: -A. To easily finish work and on-time -B. Improves staff’s satisfaction -C. Shared goals -D. Change and influence group behavior
+answer: C. Shared goals
+---
+question: 36. Nurse Ron should start to _______ as part of planning of activities for the elderly.
+choices: -A. Perform survey of the number of the elderly population -B. Attain informed consent -C. Ask permission from barangay officials -D. Require help of experts
+answer: A. Perform survey of the number of the elderly population
+---
+question: 37. With regards to health assessment of older persons, what is the best measure for their FUNCTIONAL status?
+choices: -A. Activities of daily living -B. Patient’s age -C. Financial capability of the family -D. Educational attainment
+answer: A. Activities of daily living
+---
+question: 38. What should Nurse Ron tell the elderly patients and their families regarding the drug provided to the elderly and their families regarding prescribed drug regimen?
+choices: -A. It is more convenient and safer to take liquid medications -B. Older persons are more vulnerable to adverse drug reactions -C. Give independence to take medicines -D. Allow them to refuse to take medicines
+answer: B. Older persons are more vulnerable to adverse drug reactions
+---
+question: 39. Caring for the elderly can be difficult for other family members who also act as caregivers. During home visit to the family, the nurse should assess for symptoms of_________.
+choices: -A. agitation -B. withdrawal -C. burnout -D. suicidal tendency
+answer: C. burnout
+---
+question: 40. Among the following approaches, what should a nurse choose to have an effective program for the older adults?
+choices: -A. Supervised by physicians -B. Assign to the family -C. Under the care of barangay health workers -D. Multidisciplinary
+answer: D. Multidisciplinary
+---
+question: 41. Among the given choices, which is the most ESSENTIAL tool in assessing the quality of the delivery of health services?
+choices: -A. Research -B. Standards -C. Nursing process -D. Legislation
+answer: B. Standards
+---
+question: 42. Which of the following keywords BEST describes quality improvement in public health?
+choices: -A. Status quo -B. Very conventional -C. Perfect health facility -D. Improvement process
+answer: D. Improvement process
+---
+question: 43. How can a nurse say that “quality” care exists at a health center?
+choices: -A. Rapid turnover -B. Controlled by local officials -C. Selected delivery of services -D. Patient satisfaction
+answer: D. Patient satisfaction
+---
+question: 44. Nurse Reina would like to improve the process standard at Paco Health Center. Which nursing initiative should she prioritize?
+choices: -A. Decrease operational expenses -B. Hire more new graduates -C. Revise manual for operation -D. Upgrade the health equipment
+answer: C. Revise manual for operation
+---
+question: 45. Who should Nurse Reina ask for help to improve health resources (e.g., medicines) to facilitate quality nursing care at the health center?
+choices: -A. Head of the church -B. Secretary of Health -C. Mayor -D. Governor
+answer: C. Mayor
+---
+question: 46. Nurse Gina was promoted to being the nurse manager. Which of the following statements should she consider as ESSENTIAL when preparing the budget allotted for the unit operation?
+choices: -A. Budget is insignificant for quality assurance. -B. Budget is implemented with or without money at hand. -C. Cost effectiveness and efficiency are important. -D. All things and equipment need to be new every year.
+answer: C. Cost effectiveness and efficiency are important.
+---
+question: 47. Which of the following types of planning should Nurse Gina use to review both strengths and weaknesses of an organization?
+choices: -A. Operational -B. Strategic -C. Program -D. Nursing Care
+answer: B. Strategic
+---
+question: 48. To measure cost-effectiveness, which of the following nursing actions should Nurse Gina give the MOST importance?
+choices: -A. Allow everyone to take responsibility -B. Identify resources needed to accomplish task -C. Assign the utility worker to keep track -D. All things should be kept at the supervisor’s office
+answer: B. Identify resources needed to accomplish task
+---
+question: 49. Which of the following practices should Nurse Julie introduce to the staff to BEST promote safe staffing pattern?
+choices: -A. Requires staff to report on time. -B. Delegates task -C. Staffing pattern is insignificant in community setting -D. Emphasize having all freedom to be honest in their attendance
+answer: B. Delegates task
+---
+question: 50. Which of the following choices is considered a measure of safe work environment? 1. Complies with standards 2. Observe protocols 3. Adheres to policies 4. Observe quality
+choices: -A. 2,3,4 -B. 1,2 -C. 3,4 -D. 1,2,3,4
+answer: D. 1,2,3,4
+---
+question: 51. Nurse Len is correct in identifying which of the following is a health resource problem?
+choices: -A. High Maternal Mortality Rate -B. Feud-between the Midwife and Head of the Barangay Sanitation Committee -C. Increase in number of deaths from Pneumonia -D. Absence of Midwife in the community to render health services
+answer: D. Absence of Midwife in the community to render health services
+---
+question: 52. In priority setting, community health nurses use 5 criteria. Nurse Len wants to estimate the proportion of the population in the community affected by the problem. What should she use for the criteria?
+choices: -A. Modifiability of the Problem -B. Nature of the Problem -C. Social concern -D. Magnitude of the Problem
+answer: D. Magnitude of the Problem
+---
+question: 53. Nurse Len wants to prepare for the family visit. Which among the following options can be classified as a barrier to goal setting between the nurse and the family?
+choices: -A. Failure of family to perceive existence of problem -B. Nature of employment -C. Socio economic status -D. Educational attainment
+answer: A. Failure of family to perceive existence of problem
+---
+question: 54. What is the most appropriate intervention should Nurse Len perform to help the family perform the health tasks?
+choices: -A. Refer family to barangay officials for guidance -B. Help the family recognize the problem -C. Allow family to decide to use health resources -D. Leave the family what action take on their problem
+answer: B. Help the family recognize the problem
+---
+question: 55. Which of the following steps of nursing process prioritizes the identification of family health-seeking behaviors?
+choices: -A. Assessment -B. Planning -C. Implementation -D. Evaluation
+answer: A. Assessment
+---
+question: 56. Nurse Nobara tells other team members about osteoporosis. Which of the following statements about osteoporosis in the Philippines is correct?
+choices: -A. There are only few cases in the country -B. Filipinos have low awareness about the disease -C. Filipinos are aware of the incidence of osteoporosis -D. The disease is not alarming.
+answer: B. Filipinos have low awareness about the disease
+---
+question: 57. After a nursing history to a patient, which among the following options is the most important risk factor to osteoporosis?
+choices: -A. Menopause -B. Being male -C. With history of previous fracture -D. Short in height
+answer: A. Menopause
+---
+question: 58. Which of the following is the preventive measure to osteoporosis development?
+choices: -A. Iron rich food -B. Vigorous exercise -C. Daily jogging -D. Calcium rich food and supplement
+answer: D. Calcium rich food and supplement
+---
+question: 59. Which of the following is true about osteoporosis?
+choices: -A. It is not that alarming -B. It is more common in men -C. It is a silent disease -D. It is only discovered after a fracture
+answer: C. It is a silent disease
+---
+question: 60. The diagnostic examination for osteoporosis primarily measures_______.
+choices: -A. Bone Density -B. Blood volume -C. Weight -D. Height
+answer: A. Bone Density
+---
+question: 61. To accurately collect information, which appropriate research design should Nurse Kenny use for her research?
+choices: -A. Ethnography -B. Phenomenology -C. Grounded theory -D. Case Study
+answer: B. Phenomenology
+---
+question: 62. After Nurse Kenny’s decision to proceed with her study, what should she do next?
+choices: -A. Plan for data collection -B. Create conceptual framework -C. Decide for the data analysis -D. Make a research proposal
+answer: D. Make a research proposal
+---
+question: 63. Which is the best way to present qualitative data?
+choices: -A. Bar Graph -B. Pie Chart -C. Themes -D. Linear Graph
+answer: C. Themes
+---
+question: 64. How will Nurse Kenny achieve data saturation in the qualitative research?
+choices: -A. Resurvey the mothers -B. Use a case study research design -C. Conduct interviews more than once -D. Seek advice of an MCN expert
+answer: C. Conduct interviews more than once
+---
+question: 65. For the research proposal, one of the study questions focuses on the needs of teenage mothers. In line with this research question, what suitable framework should Nurse Kenny adopt for her study?
+choices: -A. PRECEED-PROCEED Model -B. Maslow’s Hierarchy of Needs -C. Orem’s Self-Care Deficit Theory -D. King’s Theory of Goal Attainment
+answer: B. Maslow’s Hierarchy of Needs
+---
+question: 66. A client asks Nurse Nina what is the causative agent of Rabies. Nurse Nina is correct when she states the causative agent to be _______
+choices: -A. Any type of dog -B. A virus -C. Bacteria -D. A stray dog
+answer: B. A virus
+---
+question: 67. In controlling rabies in the community, which of the following is considered the best strategy to be conducted?
+choices: -A. Neutering all dogs in the community -B. Kill stray dogs -C. Being responsible pet owners -D. Implementing a fine for dog owners
+answer: C. Being responsible pet owners
+---
+question: 68. In the event of a dog bite, what should Nurse Nina advise to the patient to do first?
+choices: -A. Wash wound thoroughly with alcohol -B. Bite the dog back -C. Immediately seek medical attention -D. Wash thoroughly with running water and soap
+answer: D. Wash thoroughly with running water and soap
+---
+question: 69. Edward went to Nurse Nina after being bitten by his dog. What advice should Nurse Nina give to Edward regarding what to do with his dog?
+choices: -A. Give away his dog -B. Impound the dog -C. Have the dog beheaded immediately and have the head examined in a laboratory -D. Feed well and observe for 10 days
+answer: D. Feed well and observe for 10 days
+---
+question: 70. Which important information should Nurse Nina highlight to the public regarding Rabies?
+choices: -A. It is an ordinary disease -B. It is preventable -C. Rabies is not deadly -D. It kills
+answer: B. It is preventable
+---
+question: 71. Nurse Maphi knows that she must maintain ethical practice in her profession. What is the main goal of ethical practice in the field of nursing?
+choices: -A. To prevent lawsuits from patients -B. To protect the nurse and co-workers -C. To ensure high patient satisfaction -D. To promote the welfare of clients and protect their rights
+answer: D. To promote the welfare of clients and protect their rights
+---
+question: 72. Nurse Maphi ensures all the health resources for the care of the community are available and accessible for those who need it. She is practicing the ethical principle of __________.
+choices: -A. Justice -B. Respect -C. Fair treatment -D. Beneficence
+answer: A. Justice
+---
+question: 73. A patient approaches Nurse Maphi for advice regarding her recently diagnosed STD. Nurse Maphi will practice the principle of confidentiality if she does which of the following?
+choices: -A. Hides identity of patient -B. Share information regarding the patient in public -C. Keeps all matters about the patient as a secret -D. Discusses the case of patient with friends.
+answer: C. Keeps all matters about the patient as a secret
+---
+question: 74. Nurse Maphi is always guided by the principle of beneficence in all that she does to all her patients. Which of the following nursing action is aligned with principle of beneficence.
+choices: -A. Equal and fair allocation of resources to all. -B. Getting informed consent -C. Keep records of patients form public viewing -D. Promoting patients’ safety at all times.
+answer: D. Promoting patients’ safety at all times.
+---
+question: 75. In getting more personnel for a project, Nurse Maphi makes sure to ask the newly hired nurses first if they want to be members of the project or not. She is observing the ethical principle of ____.
+choices: -A. Justice -B. Autonomy -C. Non-maleficence -D. Respect
+answer: B. Autonomy
+---
+question: 76. Which of the following observations by Nurse Jules indicates poor family coping index related to health attitudes?
+choices: -A. A mother who regularly brings her child for her scheduled vaccination -B. A father who washes a child’s wound with running water. -C. A family who observes proper usage of face masks when going outside. -D. A mother who introduced mashed potatoes to her two-month-old baby.
+answer: D. A mother who introduced mashed potatoes to her two-month-old baby.
+---
+question: 77. Therapeutic Competence is an area of assessment in the Family Coping Index. Which of the following actions of the family shows that they are coping well in this area?
+choices: -A. Visits the clinic frequently well or sick for their prescribed monthly check-up. -B. Gets along well with one another -C. Participates in the weekly cleaning program of the community. -D. Maintains clean and organized household environment
+answer: A. Visits the clinic frequently well or sick for their prescribed monthly check-up.
+---
+question: 78. What tool utilized by nurses in the community is similar to the family coping index in terms of assessing health needs and problems?
+choices: -A. Nursing Theories -B. Nursing Diagnosis -C. Case Study -D. Vital Statistics
+answer: B. Nursing Diagnosis
+---
+question: 79. Nurse Jules knows that the focus of using the tool is to identify the family’s ____________.
+choices: -A. Strategies in coping with certain health situations -B. Manner of interaction -C. Patterns of health habits -D. Ways of identifying and managing health needs and challenges
+answer: A. Strategies in coping with certain health situations
+---
+question: 80. Nurse Jules is currently assisting the Manzano family as their children were diagnosed with having protein deficiency. Which of the following behaviors is indicative of the family’s positive coping index.
+choices: -A. Ensuring their children’s meals include meat, dairy products and beans -B. Observing small, frequent feedings for the children -C. Bringing children for check-ups only when needed. -D. Ensuring that they serve their children with their favorite food
+answer: A. Ensuring their children’s meals include meat, dairy products and beans
+---
+question: 81. What will be Nurse Dan’ most probably common finding during the physical assessment of this age group?
+choices: -A. Benign tissue growth -B. Lice and parasites -C. Fractures and injuries -D. Infectious diseases such as measles
+answer: B. Lice and parasites
+---
+question: 82. As a school nurse, Dan knows that the guiding principle he must follow is ________________.
+choices: -A. Health is an integral part of the education process. -B. The nurse is in full authority over the children -C. The local health authority supervises the school health. -D. School nursing is more focused on socialization.
+answer: A. Health is an integral part of the education process.
+---
+question: 83. After physical assessment, a student asks Nurse Dan how many times this will be done during the school year. Nurse Dan is correct when he states that physical assessment is done for students at least ____________.
+choices: -A. Thrice a year -B. Biannually -C. Once every four months -D. Once a year
+answer: D. Once a year
+---
+question: 84. Among the following students, who should Nurse Dan consider as a priority for home visitation?
+choices: -A. Rene, 9 years old, whose parents are both working abroad -B. Erika, 7 years old, who has been absent due to skin lesions. -C. Alma, 8 years old, who often sleeps during class hours. -D. Jen, 10 years old, with stunted growth for her age.
+answer: B. Erika, 7 years old, who has been absent due to skin lesions.
+---
+question: 85. Among the following indicators that Nurse Dan has listed, which best describes an effective outcome of his school nursing programs?
+choices: -A. Zero absenteeism and tardiness of pupils. -B. Teachers help in implementing school health program. -C. Adequate information in schools on health initiatives -D. Increase in the knowledge of parents on health promotion strategies for children
+answer: B. Teachers help in implementing school health program.
+---
+question: 86. After their initial community assessment, Nurse Kate wants to disseminate the results regarding identified health problems to the residents. What strategy must she utilize in order to reach every household in the community?
+choices: -A. Call for a general assembly. -B. Write a letter to be distributed to residents -C. Use a Facebook page to disseminate results -D. Distribute a memorandum
+answer: B. Write a letter to be distributed to residents
+---
+question: 87. After her meeting with the core group, Nurse Kate wants to clarify and capture the relevant details discussed. What communication technique will she use?
+choices: -A. Restating -B. Summarizing -C. Seeking clarification -D. Validating
+answer: B. Summarizing
+---
+question: 88. A resident reported to Nurse Kate that their neighbor is suspected to be abusing his child. What would be Nurse Kate’s priority action in this situation?
+choices: -A. Report to police authorities. -B. Ignore the information -C. Validate the information -D. Notify the social worker.
+answer: D. Notify the social worker.
+---
+question: 89. In the middle of a growing epidemic, what strategy can Nurse Kate utilize to effectively communicate the importance of following health and safety protocols?
+choices: -A. Send letter compelling everyone to follow. -B. Use Facebook Live to spread the information -C. Inform each resident one-by-one via house-to-house campaigns -D. Place posters and flyers in the local dialect in strategic locations
+answer: D. Place posters and flyers in the local dialect in strategic locations
+---
+question: 90. Nurse Kate wishes for the community to be able to recognize the existence of their health problems. Which among the following actions will best facilitate this?
+choices: -A. Encourages people's participation to confirm the health problems -B. Conduct a seminar discussing the issue -C. Call in an expert to communicate the problem to the residents. -D. Asks the barangay head to make the report.
+answer: A. Encourages people's participation to confirm the health problems
+---
+question: 91. Therese recalls that the theory which views caring as the focus of nursing was created by ___________.
+choices: -A. Dorothea Orem -B. Jean Watson -C. Patricia Benner -D. Jane Watson
+answer: B. Jean Watson
+---
+question: 92. Calista Roy’s theory is known for focusing on the central theme of ________.
+choices: -A. Self-care deficit -B. Adaptation -C. Nursing as caring -D. Transcultural
+answer: B. Adaptation
+---
+question: 93. Who is the proponent of the model that describes five levels of proficiency in nursing practice?
+choices: -A. Abdellah -B. Pender -C. Dreyfus -D. Benner
+answer: D. Benner
+---
+question: 94. Theresa reviewed the criteria of a profession. Which of the following is an IMPORTANT element that characterizes Nursing as a profession?
+choices: -A. Service Orientation -B. Ongoing Research -C. Well-Defined Body of Knowledge -D. Professional Organization
+answer: C. Well-Defined Body of Knowledge
+---
+question: 95. To further advance her career, Theresa plans to pursue higher education in Nursing. Aside from enrolling in a graduate school, which of the following could she do to enhance her career?
+choices: -A. Participates in professionals’ organization -B. Attend seminars -C. Conduct research -D. Attends symposium
+answer: C. Conduct research
+---
+question: 96. What is the primary aim of RA 9173?
+choices: -A. To facilitate mobility of nurses to other countries -B. To promote the well-being of public health workers. -C. To regulate practice of professional nursing in the country -D. To develop and expand the competence of Filipino professional nurses
+answer: C. To regulate practice of professional nursing in the country
+---
+question: 97. Nurse Jake closely monitors a barangay health worker which he has delegated a task to knowing that he will be responsible for their actions. He is legally guided by which of the following principles?
+choices: -A. Good Samaritan Act -B. Res Ipsa Loquitur -C. Captain of the Ship Doctrine -D. Respondeat superior
+answer: D. Respondeat superior
+---
+question: 98. What law promotes the well-being of healthcare workers especially those working under government-managed facilities?
+choices: -A. Continuing Professional Development Act of 2016 -B. Magna Carta for Public Health Workers -C. Nursing Act of 2002 -D. Local Government Code
+answer: B. Magna Carta for Public Health Workers
+---
+question: 99. This mandates that all children below 8 years of age be provided with compulsory immunization of children
+choices: -A. PD 651 -B. RA 9173 -C. PD 996 -D. RA 10912
+answer: C. PD 996
+---
+question: 100. This law allows every Filipino to avail of affordable medicines
+choices: -A. Consumer Act -B. Primary Health Care Law -C. Universal Health Care Law -D. Generic Drug Act
+answer: D. Generic Drug Act
