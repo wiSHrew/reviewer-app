@@ -20,7 +20,7 @@
             <img src="img/drag.png">
             <p>3. Copy the text below</p>
             <div style="display: flex; gap: 10px; align-items: center;">
-                <textarea id="myText" rows="4" cols="50" placeholder="Type something here..." style="overflow:hidden; resize:none; height: 445px; width: 900px;" readonly></textarea>
+                <textarea id="myText" rows="4" cols="50" placeholder="Type something here..." style="overflow:hidden; resize:none; height: auto; width: 900px;" readonly></textarea>
                 <button onclick="copyText()" class="custom-file-label">Copy</button>
             </div>
             <p>4. Paste the text on the input bar and submit</p>
@@ -35,7 +35,7 @@
                 document.getElementById("myText").value = 
 `format the contents of the file exactly like the example.
 Do not include anything else in the output.
-If there is no idicated answer, search for the answer and make sure it's correct.
+If there is no indicated answer, search for the answer and make sure it's correct.
 Remove anything not related to the questions like "[cite 109]" or any other that doesn't add context to the question.
 Make sure to go through the entire text and format all the questions.
 Example:
