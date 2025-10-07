@@ -13,8 +13,23 @@
     <p>This is a simple reviewer (。・ω・。)</p>
     <input type="file" id="fileInput">
     <button type="button" onclick="processFile()">Process file ヾ(•ω•`)o</button>
-    <pre id="output"></pre>
-    <button id="next" type="button" onclick="displayQuestion()" hidden>Next Question (o^▽^o)</button>
+
+    <h3 id="output"></h3>
+
+    <form hidden id="choicesForm">
+    <input type="radio" id="a" name="choice" value="a">
+    <label for="a">a</label><br>
+    <input type="radio" id="b" name="choice" value="b">
+    <label for="b">b</label><br>
+    <input type="radio" id="c" name="choice" value="c">
+    <label for="c">c</label><br>
+    <input type="radio" id="d" name="choice" value="d">
+    <label for="d">d</label>
+    </form>
+    <br>
+    <h3 id="answer"></h3>
+    <br>
+    <button id="next" type="button" onclick="nextQuestion()" hidden>Next Question (o^▽^o)</button>
     
 </body>
 </html>
