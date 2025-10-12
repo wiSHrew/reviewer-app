@@ -10,6 +10,8 @@ let correct = 0;
 
 function processFile() {
     document.getElementById("questions").innerHTML = "";
+correct = 0;
+updateScore(0, 0)
 
 
     const input = document.getElementById('fileInput');
@@ -147,7 +149,7 @@ function displayQuestion(index, i) {
             if (selectedValue === letterAns.trim()) {
                 response = "Correct! o(〃＾▽＾〃)o \n\n" + response;
                 correct += 1;
-                document.getElementById("score").textContent = "Score: " + correct + " / " + questions.length;
+updateScore(correct,questions length ;
             } else {
                 response = "Wrong! (╥﹏╥) \n\n" + response;
             }
@@ -169,4 +171,8 @@ function lockRadios(formId) {
 
 function goToTop() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function updateScore(correct, total){
+   document.getElementById("score").textContent = "Score: " + correct + " / " + total;
 }
