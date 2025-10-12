@@ -53,15 +53,15 @@ function processFile() {
     // check counts
     if (questions.length !== choices.length || questions.length !== answers.length) {
         output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
+        console.log("Questions:", questions);
+        console.log("Choices:", choices);
+        console.log("Answers:", answers);
         return;
     }
     else{
         output.textContent = file.name + " loaded! \nTotal Questions: " + questions.length + "\n o(^▽^)o";
     }
 
-    console.log("Questions:", questions);
-    console.log("Choices:", choices);
-    console.log("Answers:", answers);
 
     for (let i = 0; i < questions.length; i++) {
         indexes.push(i);
