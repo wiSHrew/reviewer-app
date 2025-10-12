@@ -217,7 +217,11 @@ function displayQuestion(index, i) {
             if (selectedValue === letterAns.trim()) {
                 response = "Correct! o(〃＾▽＾〃)o \n\n" + response;
                 correct += 1;
+<<<<<<< Updated upstream
                 updateScore(correct,questions.length);
+=======
+                updateScore(correct, questions.length);
+>>>>>>> Stashed changes
             } else {
                 response = "Wrong! (╥﹏╥) \n\n" + response;
             }
