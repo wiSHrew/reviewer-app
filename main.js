@@ -13,7 +13,6 @@ function processFile(prepared=false) {
     correct = 0;
     updateScore(0, 0)
 
-    const output = document.getElementById("output");
     let file;
 
     if (!prepared){
@@ -24,127 +23,66 @@ function processFile(prepared=false) {
         file = "txt/prepared.txt";
     }
 
+    const output = document.getElementById("output");
     if (!file && !prepared) {
         output.textContent = "no file detected o(TヘTo)";
         return;
     }
 
-    if (!prepared){
-        const reader = new FileReader();
+    const reader = new FileReader();
 
-        reader.onload = function() {
-            questionsString = reader.result;
+    reader.onload = function() {
+    questionsString = reader.result;
 
-            // split the file into blocks by the separator '---'
-            let blocks = questionsString.split('---');
+    // split the file into blocks by the separator '---'
+    let blocks = questionsString.split('---');
 
-            for (let block of blocks) {
-                block = block.trim();
-                if (block === "") continue; // skip empty blocks
+    for (let block of blocks) {
+        block = block.trim();
+        if (block === "") continue; // skip empty blocks
 
-                // extract question
-                let questionMatch = block.match(/question:\s*\d*\.\s*(.+)/i);
-                if (questionMatch) questions.push(questionMatch[1].trim());
+        // extract question
+        let questionMatch = block.match(/question:\s*\d*\.\s*(.+)/i);
+        if (questionMatch) questions.push(questionMatch[1].trim());
 
-                // extract choices
-                let choicesMatch = block.match(/choices:(.+)/i);
-                if (choicesMatch) {
-                    let opts = choicesMatch[1].split(' -').filter(opt => opt.trim() !== "");
-                    opts = opts.map(opt => opt.trim());
-                    choices.push(opts);
-                }
+        // extract choices
+        let choicesMatch = block.match(/choices:(.+)/i);
+        if (choicesMatch) {
+            let opts = choicesMatch[1].split(' -').filter(opt => opt.trim() !== "");
+            opts = opts.map(opt => opt.trim());
+            choices.push(opts);
+        }
 
-                // extract answer
-                let answerMatch = block.match(/answer:\s*(.+)/i);
-                if (answerMatch) answers.push(answerMatch[1].trim());
-            }
+        // extract answer
+        let answerMatch = block.match(/answer:\s*(.+)/i);
+        if (answerMatch) answers.push(answerMatch[1].trim());
+    }
 
-            // check counts
-            if (questions.length !== choices.length || questions.length !== answers.length) {
-                output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
-                console.log("Questions:", questions);
-                console.log("Choices:", choices);
-                console.log("Answers:", answers);
-                return;
-            }
-            else{
-                output.textContent = file.name + " loaded! \nTotal Questions: " + questions.length + "\n o(^▽^)o";
-            }
-
-            for (let i = 0; i < questions.length; i++) {
-                indexes.push(i);
-            }
-
-            indexes.sort(() => Math.random() - 0.5); // shuffle indexes
-
-            // start the review
-            for (let i = 0; i < indexes.length; i++) {
-                displayQuestion(indexes[i], i);
-            }
-        };
-
-        reader.readAsText(file);
+    // check counts
+    if (questions.length !== choices.length || questions.length !== answers.length) {
+        output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
+        console.log("Questions:", questions);
+        console.log("Choices:", choices);
+        console.log("Answers:", answers);
+        return;
     }
     else{
-        fetch(file)
-            .then(res => {
-                if (!res.ok) throw new Error("Failed to load prepared file");
-                return res.text();
-            })
-            .then(text => {
-                questionsString = text;
-
-                // split the file into blocks by the separator '---'
-                let blocks = questionsString.split('---');
-
-                for (let block of blocks) {
-                    block = block.trim();
-                    if (block === "") continue; // skip empty blocks
-
-                    // extract question
-                    let questionMatch = block.match(/question:\s*\d*\.\s*(.+)/i);
-                    if (questionMatch) questions.push(questionMatch[1].trim());
-
-                    // extract choices
-                    let choicesMatch = block.match(/choices:(.+)/i);
-                    if (choicesMatch) {
-                        let opts = choicesMatch[1].split(' -').filter(opt => opt.trim() !== "");
-                        opts = opts.map(opt => opt.trim());
-                        choices.push(opts);
-                    }
-
-                    // extract answer
-                    let answerMatch = block.match(/answer:\s*(.+)/i);
-                    if (answerMatch) answers.push(answerMatch[1].trim());
-                }
-
-                // check counts
-                if (questions.length !== choices.length || questions.length !== answers.length) {
-                    output.textContent = "Mismatch: questions, choices, and answers counts are not equal";
-                    console.log("Questions:", questions);
-                    console.log("Choices:", choices);
-                    console.log("Answers:", answers);
-                    return;
-                }
-                else{
-                    output.textContent = file + " loaded! \nTotal Questions: " + questions.length + "\n o(^▽^)o";
-                }
-
-                for (let i = 0; i < questions.length; i++) {
-                    indexes.push(i);
-                }
-
-                indexes.sort(() => Math.random() - 0.5); // shuffle indexes
-
-                // start the review
-                for (let i = 0; i < indexes.length; i++) {
-                    displayQuestion(indexes[i], i);
-                }
-            })
-            .catch(err => {
-                output.textContent = err.message;
-            });
+        output.textContent = file.name + " loaded! \nTotal Questions: " + questions.length + "\n o(^▽^)o";
     }
+
+
+    for (let i = 0; i < questions.length; i++) {
+        indexes.push(i);
+    }
+
+    indexes.sort(() => Math.random() - 0.5); // shuffle indexes
+
+    // start the review
+    for (let i = 0; i < indexes.length; i++) {
+        displayQuestion(indexes[i], i);
+    }
+    };
+    reader.readAsText(file);
 }
 
 
